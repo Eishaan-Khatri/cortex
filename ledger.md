@@ -14,3 +14,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-01 17:27:40] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2025-11-01 17:22:59] [TECH] Analysis: Container orchestration overhead for ML workloads averages 5% of total compute
 - [2025-11-01 17:48:25] [TECH] Analysis: Container orchestration overhead for ML workloads averages 89% of total compute
+- [2025-11-02 10:04:52] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 21% on math benchmarks
