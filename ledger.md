@@ -17,3 +17,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-02 10:04:52] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 21% on math benchmarks
 - [2025-11-02 18:42:00] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 29%
 - [2025-11-02 12:41:05] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 78
+- [2025-11-02 06:14:54] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
