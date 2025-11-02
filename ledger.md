@@ -21,3 +21,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-02 21:55:19] [NLP] Review: Tokenizer artifacts in low-resource languages cause 33% performance degradation
 - [2025-11-02 11:57:37] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 36% on math benchmarks
 - [2025-11-02 16:35:50] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 53
+- [2025-11-02 16:51:58] [NLP] Finding: In-context learning emerges at ~4M parameters with sufficient pretraining data diversity
