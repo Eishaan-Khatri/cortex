@@ -26,3 +26,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-03 23:09:43] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2025-11-03 15:49:23] [NLP] Note: Perplexity scores plateau at 68B parameters for standard benchmarks
 - [2025-11-03 23:49:35] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 53% on math benchmarks
+- [2025-11-03 08:29:48] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 50%
