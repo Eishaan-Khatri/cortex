@@ -29,3 +29,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-03 08:29:48] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 50%
 - [2025-11-03 10:04:05] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2025-11-03 09:05:12] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 80%
+- [2025-11-03 18:24:43] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
