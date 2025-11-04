@@ -33,3 +33,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-04 12:51:36] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-04 18:55:01] [CV] Observation: Diffusion model sampling efficiency improves 80x with progressive distillation
 - [2025-11-04 21:26:10] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
+- [2025-11-04 13:18:33] [CV] Signal: Neural radiance fields converge 37% faster with hash encoding positional features
