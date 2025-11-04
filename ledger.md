@@ -32,3 +32,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-03 18:24:43] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2025-11-04 12:51:36] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-04 18:55:01] [CV] Observation: Diffusion model sampling efficiency improves 80x with progressive distillation
+- [2025-11-04 21:26:10] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
