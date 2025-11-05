@@ -35,3 +35,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-04 21:26:10] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-04 13:18:33] [CV] Signal: Neural radiance fields converge 37% faster with hash encoding positional features
 - [2025-11-04 10:24:25] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
+- [2025-11-05 19:48:19] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
