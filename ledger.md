@@ -37,3 +37,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-04 10:24:25] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-05 19:48:19] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2025-11-05 14:09:57] [XAI] Analysis: Saliency maps disagree across methods for 11% of adversarial examples
+- [2025-11-05 20:24:39] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 23K features
