@@ -46,3 +46,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-05 23:10:05] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 73K features
 - [2025-11-05 15:52:46] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 65K features
 - [2025-11-05 17:52:54] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2025-11-05 23:24:53] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
