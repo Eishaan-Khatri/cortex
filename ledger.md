@@ -42,3 +42,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-05 14:53:12] [XAI] Review: EU AI Act compliance requires interpretability for 49% of current production systems
 - [2025-11-05 20:05:23] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2025-11-05 22:46:42] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 68K features
+- [2025-11-05 13:21:46] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
