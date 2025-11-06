@@ -47,3 +47,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-05 15:52:46] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 65K features
 - [2025-11-05 17:52:54] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-11-05 23:24:53] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2025-11-06 20:47:04] [BCI] Signal: Non-invasive BCI bandwidth limited to ~47 bits/minute for spelling applications
