@@ -50,3 +50,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-06 20:47:04] [BCI] Signal: Non-invasive BCI bandwidth limited to ~47 bits/minute for spelling applications
 - [2025-11-06 10:31:12] [BCI] Observation: Motor imagery classification accuracy reaches 85% with subject-specific calibration
 - [2025-11-06 14:51:14] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 40% correlation
+- [2025-11-06 10:39:36] [BCI] Signal: Non-invasive BCI bandwidth limited to ~90 bits/minute for spelling applications
