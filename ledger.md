@@ -56,3 +56,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-06 18:06:28] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2025-11-07 06:53:48] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 72x
 - [2025-11-07 09:37:19] [EMERGING] Insight: Energy consumption of training runs doubles every 4 months
+- [2025-11-07 13:41:58] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 31x
