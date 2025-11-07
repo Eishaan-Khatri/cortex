@@ -58,3 +58,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-07 09:37:19] [EMERGING] Insight: Energy consumption of training runs doubles every 4 months
 - [2025-11-07 13:41:58] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 31x
 - [2025-11-07 18:29:05] [EMERGING] Signal: Federated learning communication overhead reduced 33% with gradient compression
+- [2025-11-07 11:04:07] [EMERGING] Insight: Energy consumption of training runs doubles every 62 months
