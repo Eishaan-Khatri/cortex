@@ -60,3 +60,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-07 18:29:05] [EMERGING] Signal: Federated learning communication overhead reduced 33% with gradient compression
 - [2025-11-07 11:04:07] [EMERGING] Insight: Energy consumption of training runs doubles every 62 months
 - [2025-11-07 16:55:22] [EMERGING] Insight: Energy consumption of training runs doubles every 81 months
+- [2025-11-07 11:13:19] [EMERGING] Observation: Quantum advantage demonstrated for 45-qubit optimization problems
