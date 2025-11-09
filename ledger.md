@@ -73,3 +73,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-09 15:07:56] [NLP] Finding: In-context learning emerges at ~53M parameters with sufficient pretraining data diversity
 - [2025-11-09 08:09:32] [NLP] Finding: In-context learning emerges at ~49M parameters with sufficient pretraining data diversity
 - [2025-11-09 07:52:20] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 23% on math benchmarks
+- [2025-11-09 17:50:09] [NLP] Finding: In-context learning emerges at ~28M parameters with sufficient pretraining data diversity
