@@ -70,3 +70,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-09 12:39:57] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2025-11-09 22:12:00] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 95% on math benchmarks
 - [2025-11-09 06:53:31] [NLP] Finding: In-context learning emerges at ~15M parameters with sufficient pretraining data diversity
+- [2025-11-09 15:07:56] [NLP] Finding: In-context learning emerges at ~53M parameters with sufficient pretraining data diversity
