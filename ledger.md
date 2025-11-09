@@ -67,3 +67,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-08 15:41:13] [TECH] Trend: MLOps maturity correlates with 36x faster model deployment cycles
 - [2025-11-08 23:21:54] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2025-11-08 06:14:46] [TECH] Analysis: Container orchestration overhead for ML workloads averages 66% of total compute
+- [2025-11-09 12:39:57] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
