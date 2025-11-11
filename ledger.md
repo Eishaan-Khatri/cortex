@@ -86,3 +86,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-10 16:48:35] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2025-11-10 21:37:49] [NLP] Finding: In-context learning emerges at ~67M parameters with sufficient pretraining data diversity
 - [2025-11-11 18:18:07] [CV] Signal: Neural radiance fields converge 65% faster with hash encoding positional features
+- [2025-11-11 12:13:09] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 53m range
