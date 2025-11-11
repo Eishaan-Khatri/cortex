@@ -91,3 +91,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-11 12:03:04] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 12m range
 - [2025-11-11 07:53:51] [CV] Signal: Neural radiance fields converge 84% faster with hash encoding positional features
 - [2025-11-11 06:23:23] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
+- [2025-11-11 23:35:10] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
