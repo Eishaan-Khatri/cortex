@@ -88,3 +88,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-11 18:18:07] [CV] Signal: Neural radiance fields converge 65% faster with hash encoding positional features
 - [2025-11-11 12:13:09] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 53m range
 - [2025-11-11 11:42:28] [CV] Note: Data augmentation strategies plateau after 85 transformation types for ImageNet-scale tasks
+- [2025-11-11 12:03:04] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 12m range
