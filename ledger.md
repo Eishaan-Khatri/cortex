@@ -96,3 +96,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-12 13:01:33] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2025-11-12 13:54:05] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 84K features
 - [2025-11-12 19:17:47] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2025-11-12 17:52:53] [XAI] Review: EU AI Act compliance requires interpretability for 16% of current production systems
