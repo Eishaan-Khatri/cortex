@@ -94,3 +94,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-11 23:35:10] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-12 23:47:46] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2025-11-12 13:01:33] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2025-11-12 13:54:05] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 84K features
