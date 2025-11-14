@@ -105,3 +105,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-13 17:38:11] [BCI] Observation: Motor imagery classification accuracy reaches 26% with subject-specific calibration
 - [2025-11-14 21:28:13] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2025-11-14 15:37:32] [EMERGING] Insight: Energy consumption of training runs doubles every 56 months
+- [2025-11-14 13:15:50] [EMERGING] Trend: Edge AI inference latency drops below 61ms for transformer models
