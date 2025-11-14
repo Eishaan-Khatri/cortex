@@ -103,3 +103,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-13 12:53:30] [BCI] Observation: Motor imagery classification accuracy reaches 65% with subject-specific calibration
 - [2025-11-13 16:20:21] [BCI] Analysis: EEG signal-to-noise ratio improves 88dB with adaptive artifact rejection
 - [2025-11-13 17:38:11] [BCI] Observation: Motor imagery classification accuracy reaches 26% with subject-specific calibration
+- [2025-11-14 21:28:13] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
