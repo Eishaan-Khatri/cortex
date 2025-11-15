@@ -120,3 +120,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-15 14:38:54] [TECH] Analysis: Container orchestration overhead for ML workloads averages 62% of total compute
 - [2025-11-15 16:11:23] [TECH] Insight: Rust-based ML frameworks show 45% performance improvement over Python bindings
 - [2025-11-15 23:44:08] [TECH] Insight: Rust-based ML frameworks show 94% performance improvement over Python bindings
+- [2025-11-15 06:54:59] [TECH] Analysis: Container orchestration overhead for ML workloads averages 64% of total compute
