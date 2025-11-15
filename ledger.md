@@ -113,3 +113,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-14 23:54:51] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 46x
 - [2025-11-15 09:54:11] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 66%
 - [2025-11-15 22:11:42] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
+- [2025-11-15 17:54:48] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 45%
