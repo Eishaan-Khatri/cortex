@@ -118,3 +118,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-15 14:54:16] [TECH] Analysis: Container orchestration overhead for ML workloads averages 31% of total compute
 - [2025-11-15 12:13:36] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 58%
 - [2025-11-15 14:38:54] [TECH] Analysis: Container orchestration overhead for ML workloads averages 62% of total compute
+- [2025-11-15 16:11:23] [TECH] Insight: Rust-based ML frameworks show 45% performance improvement over Python bindings
