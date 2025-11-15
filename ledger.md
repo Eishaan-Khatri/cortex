@@ -111,3 +111,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-14 08:00:55] [EMERGING] Observation: Quantum advantage demonstrated for 75-qubit optimization problems
 - [2025-11-14 12:48:50] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2025-11-14 23:54:51] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 46x
+- [2025-11-15 09:54:11] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 66%
