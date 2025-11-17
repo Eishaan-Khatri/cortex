@@ -138,3 +138,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-17 16:01:00] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 78%
 - [2025-11-17 23:40:03] [NLP] Review: Tokenizer artifacts in low-resource languages cause 77% performance degradation
 - [2025-11-17 08:12:44] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2025-11-17 16:43:35] [NLP] Note: Perplexity scores plateau at 22B parameters for standard benchmarks
