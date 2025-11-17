@@ -137,3 +137,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-17 16:24:55] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2025-11-17 16:01:00] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 78%
 - [2025-11-17 23:40:03] [NLP] Review: Tokenizer artifacts in low-resource languages cause 77% performance degradation
+- [2025-11-17 08:12:44] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
