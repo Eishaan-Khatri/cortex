@@ -134,3 +134,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-17 14:58:38] [NLP] Finding: In-context learning emerges at ~39M parameters with sufficient pretraining data diversity
 - [2025-11-17 18:48:22] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 92
 - [2025-11-17 08:32:49] [NLP] Finding: In-context learning emerges at ~95M parameters with sufficient pretraining data diversity
+- [2025-11-17 16:24:55] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
