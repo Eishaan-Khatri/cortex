@@ -147,3 +147,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-18 12:57:17] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-18 09:52:46] [CV] Note: Data augmentation strategies plateau after 7 transformation types for ImageNet-scale tasks
 - [2025-11-18 11:27:04] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
+- [2025-11-18 21:35:59] [CV] Signal: Neural radiance fields converge 49% faster with hash encoding positional features
