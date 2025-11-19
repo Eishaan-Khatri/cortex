@@ -155,3 +155,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-19 10:53:12] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2025-11-19 18:45:47] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 11% of transformer layers
 - [2025-11-19 21:33:46] [XAI] Analysis: Saliency maps disagree across methods for 19% of adversarial examples
+- [2025-11-19 07:19:18] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
