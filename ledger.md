@@ -152,3 +152,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-18 09:57:23] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-18 19:59:29] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-19 22:36:56] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 73K features
+- [2025-11-19 10:53:12] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
