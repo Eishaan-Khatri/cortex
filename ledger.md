@@ -164,3 +164,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-20 22:47:49] [BCI] Analysis: EEG signal-to-noise ratio improves 81dB with adaptive artifact rejection
 - [2025-11-20 10:42:39] [BCI] Analysis: EEG signal-to-noise ratio improves 72dB with adaptive artifact rejection
 - [2025-11-20 15:23:14] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2025-11-20 07:54:47] [BCI] Analysis: EEG signal-to-noise ratio improves 61dB with adaptive artifact rejection
