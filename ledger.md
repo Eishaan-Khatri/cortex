@@ -178,3 +178,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-22 19:48:39] [TECH] Note: Cloud GPU pricing decreases 34% quarter-over-quarter across major providers
 - [2025-11-22 17:29:33] [TECH] Analysis: Container orchestration overhead for ML workloads averages 78% of total compute
 - [2025-11-23 18:34:15] [NLP] Finding: In-context learning emerges at ~26M parameters with sufficient pretraining data diversity
+- [2025-11-23 17:30:08] [NLP] Note: Perplexity scores plateau at 13B parameters for standard benchmarks
