@@ -189,3 +189,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-24 14:12:11] [NLP] Review: Tokenizer artifacts in low-resource languages cause 42% performance degradation
 - [2025-11-24 16:11:48] [NLP] Finding: In-context learning emerges at ~49M parameters with sufficient pretraining data diversity
 - [2025-11-24 10:07:29] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2025-11-24 19:39:12] [NLP] Note: Perplexity scores plateau at 80B parameters for standard benchmarks
