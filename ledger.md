@@ -193,3 +193,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-24 17:20:56] [NLP] Note: Perplexity scores plateau at 26B parameters for standard benchmarks
 - [2025-11-24 13:50:24] [NLP] Finding: In-context learning emerges at ~51M parameters with sufficient pretraining data diversity
 - [2025-11-24 13:44:24] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2025-11-25 06:40:54] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
