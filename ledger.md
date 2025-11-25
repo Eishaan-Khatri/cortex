@@ -202,3 +202,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-25 12:20:21] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2025-11-25 15:22:28] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2025-11-25 07:51:34] [CV] Review: Medical imaging segmentation reaches 34% Dice score with foundation model adapters
+- [2025-11-25 12:30:24] [CV] Review: Medical imaging segmentation reaches 73% Dice score with foundation model adapters
