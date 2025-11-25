@@ -195,3 +195,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-24 13:44:24] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2025-11-25 06:40:54] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-11-25 16:42:05] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 62m range
+- [2025-11-25 07:01:00] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 21m range
