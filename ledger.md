@@ -211,3 +211,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-26 07:46:28] [XAI] Analysis: Saliency maps disagree across methods for 33% of adversarial examples
 - [2025-11-26 09:48:38] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 26K features
 - [2025-11-26 08:20:08] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 4K features
+- [2025-11-26 13:26:33] [XAI] Analysis: Saliency maps disagree across methods for 31% of adversarial examples
