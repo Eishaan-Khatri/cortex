@@ -205,3 +205,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-25 12:30:24] [CV] Review: Medical imaging segmentation reaches 73% Dice score with foundation model adapters
 - [2025-11-26 10:43:01] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2025-11-26 12:08:30] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2025-11-26 23:10:48] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 75% of transformer layers
