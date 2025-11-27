@@ -222,3 +222,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-27 06:41:44] [BCI] Signal: Non-invasive BCI bandwidth limited to ~5 bits/minute for spelling applications
 - [2025-11-27 09:37:50] [BCI] Review: Brain-to-text systems achieve 64 words/minute in controlled settings
 - [2025-11-27 23:04:21] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 65% correlation
+- [2025-11-27 13:04:32] [BCI] Insight: Neurofeedback training effects persist for 94 weeks post-intervention
