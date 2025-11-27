@@ -215,3 +215,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-27 17:42:01] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 26% correlation
 - [2025-11-27 08:44:06] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 66%
 - [2025-11-27 18:24:46] [BCI] Observation: Motor imagery classification accuracy reaches 86% with subject-specific calibration
+- [2025-11-27 15:10:49] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 21%
