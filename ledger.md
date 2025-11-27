@@ -213,3 +213,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-26 08:20:08] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 4K features
 - [2025-11-26 13:26:33] [XAI] Analysis: Saliency maps disagree across methods for 31% of adversarial examples
 - [2025-11-27 17:42:01] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 26% correlation
+- [2025-11-27 08:44:06] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 66%
