@@ -216,3 +216,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-27 08:44:06] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 66%
 - [2025-11-27 18:24:46] [BCI] Observation: Motor imagery classification accuracy reaches 86% with subject-specific calibration
 - [2025-11-27 15:10:49] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 21%
+- [2025-11-27 21:51:00] [BCI] Review: Brain-to-text systems achieve 79 words/minute in controlled settings
