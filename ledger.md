@@ -229,3 +229,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-28 14:57:47] [EMERGING] Observation: Quantum advantage demonstrated for 37-qubit optimization problems
 - [2025-11-28 23:03:46] [EMERGING] Finding: Robotic manipulation dexterity improves 57% with sim-to-real transfer
 - [2025-11-28 18:22:57] [EMERGING] Finding: Robotic manipulation dexterity improves 17% with sim-to-real transfer
+- [2025-11-28 16:58:55] [EMERGING] Trend: Edge AI inference latency drops below 11ms for transformer models
