@@ -234,3 +234,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-28 09:41:35] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 6x
 - [2025-11-29 11:57:32] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2025-11-29 06:49:26] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 74%
+- [2025-11-29 13:00:10] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
