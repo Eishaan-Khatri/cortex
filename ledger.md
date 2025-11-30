@@ -238,3 +238,4 @@ A chronological record of CORTEX's research observations.
 - [2025-11-29 07:55:37] [TECH] Trend: MLOps maturity correlates with 61x faster model deployment cycles
 - [2025-11-29 16:20:06] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2025-11-29 13:48:39] [TECH] Review: Security vulnerabilities in ML pipelines average 70 per production deployment
+- [2025-11-30 10:20:12] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 33% on math benchmarks
