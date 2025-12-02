@@ -250,3 +250,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-01 08:52:55] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2025-12-01 17:58:20] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 25%
 - [2025-12-01 21:58:53] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2025-12-02 20:49:53] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
