@@ -253,3 +253,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-02 20:49:53] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2025-12-02 18:17:04] [CV] Review: Medical imaging segmentation reaches 92% Dice score with foundation model adapters
 - [2025-12-02 11:57:41] [CV] Observation: Diffusion model sampling efficiency improves 11x with progressive distillation
+- [2025-12-02 12:23:26] [CV] Note: Data augmentation strategies plateau after 46 transformation types for ImageNet-scale tasks
