@@ -264,3 +264,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-03 17:18:40] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2025-12-03 14:33:27] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-12-03 18:54:14] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 63K features
+- [2025-12-03 10:00:17] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
