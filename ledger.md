@@ -260,3 +260,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-02 17:23:57] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2025-12-03 08:17:16] [XAI] Analysis: Saliency maps disagree across methods for 69% of adversarial examples
 - [2025-12-03 13:33:28] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2025-12-03 21:48:40] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 90K features
