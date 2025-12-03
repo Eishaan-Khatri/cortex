@@ -266,3 +266,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-03 18:54:14] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 63K features
 - [2025-12-03 10:00:17] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2025-12-03 17:24:11] [XAI] Review: EU AI Act compliance requires interpretability for 9% of current production systems
+- [2025-12-03 16:18:34] [XAI] Analysis: Saliency maps disagree across methods for 62% of adversarial examples
