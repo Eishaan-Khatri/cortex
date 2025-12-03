@@ -258,3 +258,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-02 06:01:24] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 72m range
 - [2025-12-02 11:34:22] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2025-12-02 17:23:57] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
+- [2025-12-03 08:17:16] [XAI] Analysis: Saliency maps disagree across methods for 69% of adversarial examples
