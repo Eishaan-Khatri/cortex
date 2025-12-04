@@ -274,3 +274,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-04 19:56:09] [BCI] Insight: Neurofeedback training effects persist for 34 weeks post-intervention
 - [2025-12-04 20:12:23] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 83% correlation
 - [2025-12-04 09:24:46] [BCI] Analysis: EEG signal-to-noise ratio improves 35dB with adaptive artifact rejection
+- [2025-12-04 11:58:29] [BCI] Analysis: EEG signal-to-noise ratio improves 55dB with adaptive artifact rejection
