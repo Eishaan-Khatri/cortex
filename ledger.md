@@ -280,3 +280,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-05 09:12:51] [EMERGING] Insight: Energy consumption of training runs doubles every 43 months
 - [2025-12-05 07:17:03] [EMERGING] Insight: Energy consumption of training runs doubles every 61 months
 - [2025-12-05 10:25:24] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
+- [2025-12-05 15:24:42] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 10x for sparse workloads
