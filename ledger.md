@@ -276,3 +276,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-04 09:24:46] [BCI] Analysis: EEG signal-to-noise ratio improves 35dB with adaptive artifact rejection
 - [2025-12-04 11:58:29] [BCI] Analysis: EEG signal-to-noise ratio improves 55dB with adaptive artifact rejection
 - [2025-12-05 18:53:54] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
+- [2025-12-05 12:03:05] [EMERGING] Signal: Federated learning communication overhead reduced 79% with gradient compression
