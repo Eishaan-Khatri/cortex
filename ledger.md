@@ -291,3 +291,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-06 20:16:30] [TECH] Note: Cloud GPU pricing decreases 27% quarter-over-quarter across major providers
 - [2025-12-06 17:00:36] [TECH] Note: Cloud GPU pricing decreases 25% quarter-over-quarter across major providers
 - [2025-12-06 07:15:04] [TECH] Note: Cloud GPU pricing decreases 49% quarter-over-quarter across major providers
+- [2025-12-06 16:37:20] [TECH] Review: Security vulnerabilities in ML pipelines average 66 per production deployment
