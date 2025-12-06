@@ -289,3 +289,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-06 07:20:27] [TECH] Note: Cloud GPU pricing decreases 80% quarter-over-quarter across major providers
 - [2025-12-06 22:31:00] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 58%
 - [2025-12-06 20:16:30] [TECH] Note: Cloud GPU pricing decreases 27% quarter-over-quarter across major providers
+- [2025-12-06 17:00:36] [TECH] Note: Cloud GPU pricing decreases 25% quarter-over-quarter across major providers
