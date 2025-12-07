@@ -297,3 +297,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-07 18:23:57] [NLP] Finding: In-context learning emerges at ~28M parameters with sufficient pretraining data diversity
 - [2025-12-07 16:27:40] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 40% on math benchmarks
 - [2025-12-07 20:36:57] [NLP] Review: Tokenizer artifacts in low-resource languages cause 14% performance degradation
+- [2025-12-07 10:19:14] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 3%
