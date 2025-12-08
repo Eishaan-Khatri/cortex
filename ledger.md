@@ -307,3 +307,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-08 23:11:49] [NLP] Finding: In-context learning emerges at ~23M parameters with sufficient pretraining data diversity
 - [2025-12-08 20:55:54] [NLP] Note: Perplexity scores plateau at 6B parameters for standard benchmarks
 - [2025-12-08 15:34:37] [NLP] Finding: In-context learning emerges at ~67M parameters with sufficient pretraining data diversity
+- [2025-12-08 12:31:29] [NLP] Note: Perplexity scores plateau at 9B parameters for standard benchmarks
