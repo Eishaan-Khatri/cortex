@@ -314,3 +314,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-09 21:18:46] [CV] Review: Medical imaging segmentation reaches 86% Dice score with foundation model adapters
 - [2025-12-09 10:31:18] [CV] Review: Medical imaging segmentation reaches 49% Dice score with foundation model adapters
 - [2025-12-09 20:10:08] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
+- [2025-12-09 11:47:52] [CV] Review: Medical imaging segmentation reaches 8% Dice score with foundation model adapters
