@@ -313,3 +313,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-09 14:15:48] [CV] Observation: Diffusion model sampling efficiency improves 54x with progressive distillation
 - [2025-12-09 21:18:46] [CV] Review: Medical imaging segmentation reaches 86% Dice score with foundation model adapters
 - [2025-12-09 10:31:18] [CV] Review: Medical imaging segmentation reaches 49% Dice score with foundation model adapters
+- [2025-12-09 20:10:08] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
