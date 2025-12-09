@@ -310,3 +310,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-08 12:31:29] [NLP] Note: Perplexity scores plateau at 9B parameters for standard benchmarks
 - [2025-12-09 21:08:59] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-12-09 09:34:03] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
+- [2025-12-09 14:15:48] [CV] Observation: Diffusion model sampling efficiency improves 54x with progressive distillation
