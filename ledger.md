@@ -318,3 +318,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-09 22:42:06] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-12-09 11:17:39] [CV] Review: Medical imaging segmentation reaches 22% Dice score with foundation model adapters
 - [2025-12-09 12:11:55] [CV] Note: Data augmentation strategies plateau after 44 transformation types for ImageNet-scale tasks
+- [2025-12-09 12:06:51] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
