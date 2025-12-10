@@ -325,3 +325,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-10 14:05:48] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2025-12-10 07:04:34] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2025-12-10 10:28:21] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2025-12-10 18:51:58] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
