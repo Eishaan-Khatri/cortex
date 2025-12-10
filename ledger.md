@@ -321,3 +321,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-09 12:06:51] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2025-12-10 22:11:55] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 85K features
 - [2025-12-10 06:53:21] [XAI] Analysis: Saliency maps disagree across methods for 21% of adversarial examples
+- [2025-12-10 09:11:53] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
