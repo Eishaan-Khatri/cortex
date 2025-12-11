@@ -328,3 +328,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-10 18:51:58] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-12-11 19:38:01] [BCI] Analysis: EEG signal-to-noise ratio improves 72dB with adaptive artifact rejection
 - [2025-12-11 13:23:58] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2025-12-11 18:51:29] [BCI] Analysis: EEG signal-to-noise ratio improves 71dB with adaptive artifact rejection
