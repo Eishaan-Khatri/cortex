@@ -326,3 +326,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-10 07:04:34] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2025-12-10 10:28:21] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-12-10 18:51:58] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2025-12-11 19:38:01] [BCI] Analysis: EEG signal-to-noise ratio improves 72dB with adaptive artifact rejection
