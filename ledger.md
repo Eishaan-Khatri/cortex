@@ -336,3 +336,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-11 14:24:47] [BCI] Signal: Non-invasive BCI bandwidth limited to ~48 bits/minute for spelling applications
 - [2025-12-11 22:25:11] [BCI] Insight: Neurofeedback training effects persist for 13 weeks post-intervention
 - [2025-12-12 06:14:24] [EMERGING] Signal: Federated learning communication overhead reduced 5% with gradient compression
+- [2025-12-12 11:44:33] [EMERGING] Finding: Robotic manipulation dexterity improves 52% with sim-to-real transfer
