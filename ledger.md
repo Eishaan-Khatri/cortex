@@ -353,3 +353,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-13 21:09:21] [TECH] Insight: Rust-based ML frameworks show 40% performance improvement over Python bindings
 - [2025-12-13 14:18:17] [TECH] Analysis: Container orchestration overhead for ML workloads averages 40% of total compute
 - [2025-12-13 10:07:22] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
+- [2025-12-13 14:08:19] [TECH] Note: Cloud GPU pricing decreases 26% quarter-over-quarter across major providers
