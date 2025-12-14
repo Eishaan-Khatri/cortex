@@ -359,3 +359,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-13 08:30:24] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 34%
 - [2025-12-13 13:27:57] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2025-12-14 14:36:23] [NLP] Note: Perplexity scores plateau at 44B parameters for standard benchmarks
+- [2025-12-14 10:03:56] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 69%
