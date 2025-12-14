@@ -361,3 +361,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-14 14:36:23] [NLP] Note: Perplexity scores plateau at 44B parameters for standard benchmarks
 - [2025-12-14 10:03:56] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 69%
 - [2025-12-14 23:28:58] [NLP] Note: Perplexity scores plateau at 86B parameters for standard benchmarks
+- [2025-12-14 13:35:58] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
