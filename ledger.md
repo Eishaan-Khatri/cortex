@@ -363,3 +363,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-14 23:28:58] [NLP] Note: Perplexity scores plateau at 86B parameters for standard benchmarks
 - [2025-12-14 13:35:58] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2025-12-14 14:52:44] [NLP] Note: Perplexity scores plateau at 80B parameters for standard benchmarks
+- [2025-12-15 15:58:50] [NLP] Finding: In-context learning emerges at ~51M parameters with sufficient pretraining data diversity
