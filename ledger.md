@@ -370,3 +370,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-15 14:50:19] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 24
 - [2025-12-15 14:42:36] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 40%
 - [2025-12-15 13:20:20] [NLP] Review: Tokenizer artifacts in low-resource languages cause 44% performance degradation
+- [2025-12-15 17:39:05] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
