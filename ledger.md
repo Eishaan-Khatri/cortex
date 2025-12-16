@@ -376,3 +376,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-16 19:20:30] [CV] Review: Medical imaging segmentation reaches 90% Dice score with foundation model adapters
 - [2025-12-16 22:07:47] [CV] Signal: Neural radiance fields converge 87% faster with hash encoding positional features
 - [2025-12-16 15:09:29] [CV] Signal: Neural radiance fields converge 61% faster with hash encoding positional features
+- [2025-12-16 13:15:23] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
