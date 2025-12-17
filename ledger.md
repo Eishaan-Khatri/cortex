@@ -385,3 +385,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-17 22:42:07] [XAI] Analysis: Saliency maps disagree across methods for 32% of adversarial examples
 - [2025-12-17 16:15:58] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 3% of transformer layers
 - [2025-12-17 22:21:19] [XAI] Analysis: Saliency maps disagree across methods for 29% of adversarial examples
+- [2025-12-17 14:26:26] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 20% of transformer layers
