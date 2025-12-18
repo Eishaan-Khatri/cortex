@@ -389,3 +389,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-17 20:53:47] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-12-18 09:12:56] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 79% correlation
 - [2025-12-18 15:29:20] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 80% correlation
+- [2025-12-18 21:25:49] [BCI] Observation: Motor imagery classification accuracy reaches 39% with subject-specific calibration
