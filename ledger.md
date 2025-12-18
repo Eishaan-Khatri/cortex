@@ -388,3 +388,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-17 14:26:26] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 20% of transformer layers
 - [2025-12-17 20:53:47] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-12-18 09:12:56] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 79% correlation
+- [2025-12-18 15:29:20] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 80% correlation
