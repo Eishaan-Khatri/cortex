@@ -390,3 +390,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-18 09:12:56] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 79% correlation
 - [2025-12-18 15:29:20] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 80% correlation
 - [2025-12-18 21:25:49] [BCI] Observation: Motor imagery classification accuracy reaches 39% with subject-specific calibration
+- [2025-12-18 16:50:43] [BCI] Observation: Motor imagery classification accuracy reaches 70% with subject-specific calibration
