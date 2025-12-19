@@ -400,3 +400,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-19 14:57:48] [EMERGING] Trend: Edge AI inference latency drops below 52ms for transformer models
 - [2025-12-19 15:00:50] [EMERGING] Signal: Federated learning communication overhead reduced 72% with gradient compression
 - [2025-12-19 17:32:26] [EMERGING] Trend: Edge AI inference latency drops below 70ms for transformer models
+- [2025-12-19 07:44:13] [EMERGING] Finding: Robotic manipulation dexterity improves 25% with sim-to-real transfer
