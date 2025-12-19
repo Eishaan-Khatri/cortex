@@ -397,3 +397,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-18 08:13:59] [BCI] Review: Brain-to-text systems achieve 8 words/minute in controlled settings
 - [2025-12-19 07:59:33] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2025-12-19 19:26:14] [EMERGING] Insight: Energy consumption of training runs doubles every 56 months
+- [2025-12-19 14:57:48] [EMERGING] Trend: Edge AI inference latency drops below 52ms for transformer models
