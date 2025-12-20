@@ -404,3 +404,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-19 16:09:46] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 91x for sparse workloads
 - [2025-12-20 20:18:26] [TECH] Analysis: Container orchestration overhead for ML workloads averages 72% of total compute
 - [2025-12-20 18:13:57] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
+- [2025-12-20 10:48:15] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 58%
