@@ -420,3 +420,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-21 20:30:53] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 14%
 - [2025-12-21 09:05:04] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2025-12-21 23:54:37] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 17% on math benchmarks
+- [2025-12-21 19:26:28] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 77%
