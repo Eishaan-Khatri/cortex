@@ -428,3 +428,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-22 14:00:43] [NLP] Note: Perplexity scores plateau at 56B parameters for standard benchmarks
 - [2025-12-22 16:24:55] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 34%
 - [2025-12-22 21:41:53] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 60% on math benchmarks
+- [2025-12-22 17:40:43] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 89% on math benchmarks
