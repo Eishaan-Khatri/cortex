@@ -424,3 +424,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-21 23:15:06] [NLP] Note: Perplexity scores plateau at 90B parameters for standard benchmarks
 - [2025-12-22 16:28:37] [NLP] Review: Tokenizer artifacts in low-resource languages cause 19% performance degradation
 - [2025-12-22 20:13:10] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 37% on math benchmarks
+- [2025-12-22 11:57:05] [NLP] Finding: In-context learning emerges at ~61M parameters with sufficient pretraining data diversity
