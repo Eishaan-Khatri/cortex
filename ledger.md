@@ -430,3 +430,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-22 21:41:53] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 60% on math benchmarks
 - [2025-12-22 17:40:43] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 89% on math benchmarks
 - [2025-12-22 07:58:14] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2025-12-23 08:51:38] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 75m range
