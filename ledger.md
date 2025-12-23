@@ -438,3 +438,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-23 18:27:27] [CV] Observation: Diffusion model sampling efficiency improves 91x with progressive distillation
 - [2025-12-23 21:58:15] [CV] Signal: Neural radiance fields converge 7% faster with hash encoding positional features
 - [2025-12-23 22:29:50] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2025-12-23 07:37:50] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
