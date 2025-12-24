@@ -445,3 +445,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-24 09:02:19] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-12-24 17:57:07] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2025-12-24 13:43:25] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
+- [2025-12-24 13:35:08] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
