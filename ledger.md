@@ -443,3 +443,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-23 12:32:18] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2025-12-24 15:02:50] [XAI] Analysis: Saliency maps disagree across methods for 28% of adversarial examples
 - [2025-12-24 09:02:19] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2025-12-24 17:57:07] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
