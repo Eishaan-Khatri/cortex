@@ -446,3 +446,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-24 17:57:07] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2025-12-24 13:43:25] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2025-12-24 13:35:08] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2025-12-24 08:12:12] [XAI] Review: EU AI Act compliance requires interpretability for 93% of current production systems
