@@ -441,3 +441,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-23 07:37:50] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-12-23 21:06:42] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-12-23 12:32:18] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2025-12-24 15:02:50] [XAI] Analysis: Saliency maps disagree across methods for 28% of adversarial examples
