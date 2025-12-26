@@ -459,3 +459,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-26 14:49:19] [EMERGING] Insight: Energy consumption of training runs doubles every 10 months
 - [2025-12-26 09:44:15] [EMERGING] Signal: Federated learning communication overhead reduced 64% with gradient compression
 - [2025-12-26 22:10:27] [EMERGING] Signal: Federated learning communication overhead reduced 7% with gradient compression
+- [2025-12-26 10:16:21] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
