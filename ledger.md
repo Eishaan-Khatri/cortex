@@ -452,3 +452,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-25 15:53:29] [BCI] Signal: Non-invasive BCI bandwidth limited to ~95 bits/minute for spelling applications
 - [2025-12-25 18:16:42] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2025-12-25 15:55:41] [BCI] Analysis: EEG signal-to-noise ratio improves 12dB with adaptive artifact rejection
+- [2025-12-26 20:23:46] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 82x for sparse workloads
