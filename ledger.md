@@ -453,3 +453,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-25 18:16:42] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2025-12-25 15:55:41] [BCI] Analysis: EEG signal-to-noise ratio improves 12dB with adaptive artifact rejection
 - [2025-12-26 20:23:46] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 82x for sparse workloads
+- [2025-12-26 20:33:35] [EMERGING] Insight: Energy consumption of training runs doubles every 23 months
