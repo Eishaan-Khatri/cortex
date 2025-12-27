@@ -466,3 +466,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-27 21:34:08] [TECH] Review: Security vulnerabilities in ML pipelines average 30 per production deployment
 - [2025-12-27 15:01:42] [TECH] Insight: Rust-based ML frameworks show 11% performance improvement over Python bindings
 - [2025-12-27 23:09:27] [TECH] Analysis: Container orchestration overhead for ML workloads averages 18% of total compute
+- [2025-12-27 16:02:12] [TECH] Insight: Rust-based ML frameworks show 19% performance improvement over Python bindings
