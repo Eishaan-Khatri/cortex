@@ -470,3 +470,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-27 07:31:27] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2025-12-27 15:56:03] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 81%
 - [2025-12-27 20:44:01] [TECH] Note: Cloud GPU pricing decreases 75% quarter-over-quarter across major providers
+- [2025-12-27 10:34:06] [TECH] Analysis: Container orchestration overhead for ML workloads averages 30% of total compute
