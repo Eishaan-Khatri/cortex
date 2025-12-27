@@ -464,3 +464,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-27 18:13:32] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 37%
 - [2025-12-27 12:18:16] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2025-12-27 21:34:08] [TECH] Review: Security vulnerabilities in ML pipelines average 30 per production deployment
+- [2025-12-27 15:01:42] [TECH] Insight: Rust-based ML frameworks show 11% performance improvement over Python bindings
