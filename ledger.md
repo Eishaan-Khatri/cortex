@@ -481,3 +481,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-28 07:39:40] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 58% on math benchmarks
 - [2025-12-28 17:30:18] [NLP] Review: Tokenizer artifacts in low-resource languages cause 37% performance degradation
 - [2025-12-28 06:19:53] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 95%
+- [2025-12-28 09:22:24] [NLP] Note: Perplexity scores plateau at 70B parameters for standard benchmarks
