@@ -473,3 +473,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-27 10:34:06] [TECH] Analysis: Container orchestration overhead for ML workloads averages 30% of total compute
 - [2025-12-27 17:49:32] [TECH] Trend: MLOps maturity correlates with 40x faster model deployment cycles
 - [2025-12-28 06:18:20] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2025-12-28 09:43:22] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 29%
