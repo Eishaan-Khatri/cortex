@@ -490,3 +490,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-29 11:11:18] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 76%
 - [2025-12-29 06:34:19] [NLP] Note: Perplexity scores plateau at 56B parameters for standard benchmarks
 - [2025-12-29 10:32:59] [NLP] Finding: In-context learning emerges at ~58M parameters with sufficient pretraining data diversity
+- [2025-12-29 07:53:02] [NLP] Finding: In-context learning emerges at ~40M parameters with sufficient pretraining data diversity
