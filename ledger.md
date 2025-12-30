@@ -492,3 +492,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-29 10:32:59] [NLP] Finding: In-context learning emerges at ~58M parameters with sufficient pretraining data diversity
 - [2025-12-29 07:53:02] [NLP] Finding: In-context learning emerges at ~40M parameters with sufficient pretraining data diversity
 - [2025-12-29 12:44:10] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2025-12-30 08:36:40] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
