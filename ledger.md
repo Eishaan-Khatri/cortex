@@ -496,3 +496,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-30 19:47:55] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2025-12-30 16:33:34] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-12-30 16:55:13] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 33m range
+- [2025-12-30 06:45:09] [CV] Review: Medical imaging segmentation reaches 80% Dice score with foundation model adapters
