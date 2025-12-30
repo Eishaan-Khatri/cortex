@@ -494,3 +494,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-29 12:44:10] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2025-12-30 08:36:40] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2025-12-30 19:47:55] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
+- [2025-12-30 16:33:34] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
