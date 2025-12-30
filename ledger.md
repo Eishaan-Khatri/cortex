@@ -500,3 +500,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-30 18:39:13] [CV] Observation: Diffusion model sampling efficiency improves 4x with progressive distillation
 - [2025-12-30 12:06:40] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2025-12-30 15:26:59] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
+- [2025-12-30 06:58:16] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
