@@ -503,3 +503,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-30 06:58:16] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2025-12-30 07:09:07] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 18m range
 - [2025-12-30 17:17:51] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2025-12-31 10:55:28] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 5K features
