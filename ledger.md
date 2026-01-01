@@ -515,3 +515,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-31 09:20:52] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2025-12-31 15:13:55] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 12% of transformer layers
 - [2025-12-31 17:25:56] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-01-01 22:18:58] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 79%
