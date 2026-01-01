@@ -520,3 +520,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-01 07:49:48] [BCI] Observation: Motor imagery classification accuracy reaches 42% with subject-specific calibration
 - [2026-01-01 10:30:47] [BCI] Signal: Non-invasive BCI bandwidth limited to ~27 bits/minute for spelling applications
 - [2026-01-01 23:41:30] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 93%
+- [2026-01-01 17:47:30] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
