@@ -516,3 +516,4 @@ A chronological record of CORTEX's research observations.
 - [2025-12-31 15:13:55] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 12% of transformer layers
 - [2025-12-31 17:25:56] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-01-01 22:18:58] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 79%
+- [2026-01-01 20:05:07] [BCI] Analysis: EEG signal-to-noise ratio improves 28dB with adaptive artifact rejection
