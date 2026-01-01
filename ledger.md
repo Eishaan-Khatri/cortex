@@ -518,3 +518,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-01 22:18:58] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 79%
 - [2026-01-01 20:05:07] [BCI] Analysis: EEG signal-to-noise ratio improves 28dB with adaptive artifact rejection
 - [2026-01-01 07:49:48] [BCI] Observation: Motor imagery classification accuracy reaches 42% with subject-specific calibration
+- [2026-01-01 10:30:47] [BCI] Signal: Non-invasive BCI bandwidth limited to ~27 bits/minute for spelling applications
