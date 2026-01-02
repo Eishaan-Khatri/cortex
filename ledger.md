@@ -525,3 +525,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-01 13:27:55] [BCI] Insight: Neurofeedback training effects persist for 44 weeks post-intervention
 - [2026-01-02 18:31:15] [EMERGING] Trend: Edge AI inference latency drops below 81ms for transformer models
 - [2026-01-02 11:37:57] [EMERGING] Finding: Robotic manipulation dexterity improves 82% with sim-to-real transfer
+- [2026-01-02 13:36:40] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
