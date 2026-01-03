@@ -534,3 +534,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-03 20:47:41] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2026-01-03 22:31:30] [TECH] Analysis: Container orchestration overhead for ML workloads averages 86% of total compute
 - [2026-01-03 23:47:38] [TECH] Review: Security vulnerabilities in ML pipelines average 22 per production deployment
+- [2026-01-03 08:34:36] [TECH] Analysis: Container orchestration overhead for ML workloads averages 35% of total compute
