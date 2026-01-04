@@ -535,3 +535,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-03 22:31:30] [TECH] Analysis: Container orchestration overhead for ML workloads averages 86% of total compute
 - [2026-01-03 23:47:38] [TECH] Review: Security vulnerabilities in ML pipelines average 22 per production deployment
 - [2026-01-03 08:34:36] [TECH] Analysis: Container orchestration overhead for ML workloads averages 35% of total compute
+- [2026-01-04 06:42:51] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
