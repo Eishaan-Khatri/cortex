@@ -559,3 +559,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-06 15:29:28] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-01-06 16:20:54] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-01-06 20:30:39] [CV] Note: Data augmentation strategies plateau after 45 transformation types for ImageNet-scale tasks
+- [2026-01-06 22:12:15] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 54m range
