@@ -557,3 +557,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-05 20:42:01] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-01-05 23:33:02] [NLP] Note: Perplexity scores plateau at 34B parameters for standard benchmarks
 - [2026-01-06 15:29:28] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2026-01-06 16:20:54] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
