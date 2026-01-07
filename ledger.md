@@ -565,3 +565,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-06 18:01:15] [CV] Review: Medical imaging segmentation reaches 64% Dice score with foundation model adapters
 - [2026-01-07 10:11:31] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-01-07 14:58:25] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2026-01-07 19:51:38] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
