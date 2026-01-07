@@ -563,3 +563,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-06 10:39:36] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-01-06 08:54:16] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 31m range
 - [2026-01-06 18:01:15] [CV] Review: Medical imaging segmentation reaches 64% Dice score with foundation model adapters
+- [2026-01-07 10:11:31] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
