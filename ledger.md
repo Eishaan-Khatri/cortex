@@ -577,3 +577,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-08 22:00:00] [BCI] Review: Brain-to-text systems achieve 20 words/minute in controlled settings
 - [2026-01-08 09:16:25] [BCI] Observation: Motor imagery classification accuracy reaches 2% with subject-specific calibration
 - [2026-01-08 06:03:27] [BCI] Insight: Neurofeedback training effects persist for 35 weeks post-intervention
+- [2026-01-08 21:56:54] [BCI] Observation: Motor imagery classification accuracy reaches 7% with subject-specific calibration
