@@ -575,3 +575,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-08 07:19:37] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 18% correlation
 - [2026-01-08 07:36:14] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-01-08 22:00:00] [BCI] Review: Brain-to-text systems achieve 20 words/minute in controlled settings
+- [2026-01-08 09:16:25] [BCI] Observation: Motor imagery classification accuracy reaches 2% with subject-specific calibration
