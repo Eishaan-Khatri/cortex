@@ -590,3 +590,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-10 08:32:01] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2026-01-10 11:17:35] [TECH] Insight: Rust-based ML frameworks show 37% performance improvement over Python bindings
 - [2026-01-11 13:39:19] [NLP] Finding: In-context learning emerges at ~45M parameters with sufficient pretraining data diversity
+- [2026-01-11 11:19:32] [NLP] Review: Tokenizer artifacts in low-resource languages cause 54% performance degradation
