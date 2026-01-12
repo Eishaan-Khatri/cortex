@@ -603,3 +603,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-11 21:33:00] [NLP] Review: Tokenizer artifacts in low-resource languages cause 68% performance degradation
 - [2026-01-12 12:58:09] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-01-12 15:29:13] [NLP] Note: Perplexity scores plateau at 26B parameters for standard benchmarks
+- [2026-01-12 17:02:07] [NLP] Note: Perplexity scores plateau at 86B parameters for standard benchmarks
