@@ -610,3 +610,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-12 09:44:39] [NLP] Finding: In-context learning emerges at ~74M parameters with sufficient pretraining data diversity
 - [2026-01-12 14:35:51] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 91% on math benchmarks
 - [2026-01-13 11:05:10] [CV] Signal: Neural radiance fields converge 31% faster with hash encoding positional features
+- [2026-01-13 23:13:05] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
