@@ -615,3 +615,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-13 12:03:09] [CV] Note: Data augmentation strategies plateau after 69 transformation types for ImageNet-scale tasks
 - [2026-01-13 19:37:08] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-01-13 13:26:23] [CV] Note: Data augmentation strategies plateau after 71 transformation types for ImageNet-scale tasks
+- [2026-01-13 08:10:29] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
