@@ -618,3 +618,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-13 08:10:29] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-01-13 11:19:26] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-01-13 20:39:43] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2026-01-13 14:10:30] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
