@@ -622,3 +622,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-13 14:43:36] [CV] Observation: Diffusion model sampling efficiency improves 54x with progressive distillation
 - [2026-01-13 06:42:31] [CV] Note: Data augmentation strategies plateau after 36 transformation types for ImageNet-scale tasks
 - [2026-01-14 09:40:27] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
+- [2026-01-14 19:17:46] [XAI] Analysis: Saliency maps disagree across methods for 65% of adversarial examples
