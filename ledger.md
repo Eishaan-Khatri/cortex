@@ -626,3 +626,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-14 10:05:20] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 65% of transformer layers
 - [2026-01-14 21:33:26] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-01-14 20:41:52] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 3K features
+- [2026-01-14 17:09:35] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 85% of transformer layers
