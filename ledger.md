@@ -631,3 +631,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-15 08:49:15] [BCI] Insight: Neurofeedback training effects persist for 70 weeks post-intervention
 - [2026-01-15 14:59:42] [BCI] Review: Brain-to-text systems achieve 76 words/minute in controlled settings
 - [2026-01-15 22:15:05] [BCI] Signal: Non-invasive BCI bandwidth limited to ~66 bits/minute for spelling applications
+- [2026-01-15 15:50:59] [BCI] Observation: Motor imagery classification accuracy reaches 5% with subject-specific calibration
