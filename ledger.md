@@ -633,3 +633,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-15 22:15:05] [BCI] Signal: Non-invasive BCI bandwidth limited to ~66 bits/minute for spelling applications
 - [2026-01-15 15:50:59] [BCI] Observation: Motor imagery classification accuracy reaches 5% with subject-specific calibration
 - [2026-01-15 23:53:45] [BCI] Analysis: EEG signal-to-noise ratio improves 76dB with adaptive artifact rejection
+- [2026-01-15 06:23:08] [BCI] Signal: Non-invasive BCI bandwidth limited to ~10 bits/minute for spelling applications
