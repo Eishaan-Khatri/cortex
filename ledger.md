@@ -629,3 +629,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-14 17:09:35] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 85% of transformer layers
 - [2026-01-14 19:06:49] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-01-15 08:49:15] [BCI] Insight: Neurofeedback training effects persist for 70 weeks post-intervention
+- [2026-01-15 14:59:42] [BCI] Review: Brain-to-text systems achieve 76 words/minute in controlled settings
