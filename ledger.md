@@ -635,3 +635,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-15 23:53:45] [BCI] Analysis: EEG signal-to-noise ratio improves 76dB with adaptive artifact rejection
 - [2026-01-15 06:23:08] [BCI] Signal: Non-invasive BCI bandwidth limited to ~10 bits/minute for spelling applications
 - [2026-01-15 22:15:05] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 36%
+- [2026-01-15 11:41:38] [BCI] Signal: Non-invasive BCI bandwidth limited to ~16 bits/minute for spelling applications
