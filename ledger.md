@@ -641,3 +641,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-16 13:24:48] [EMERGING] Finding: Robotic manipulation dexterity improves 9% with sim-to-real transfer
 - [2026-01-16 12:22:49] [EMERGING] Trend: Edge AI inference latency drops below 71ms for transformer models
 - [2026-01-16 22:04:59] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 88x for sparse workloads
+- [2026-01-16 07:04:52] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 85x
