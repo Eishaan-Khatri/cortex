@@ -638,3 +638,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-15 11:41:38] [BCI] Signal: Non-invasive BCI bandwidth limited to ~16 bits/minute for spelling applications
 - [2026-01-15 16:47:11] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 6%
 - [2026-01-15 09:17:36] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 52%
+- [2026-01-16 13:24:48] [EMERGING] Finding: Robotic manipulation dexterity improves 9% with sim-to-real transfer
