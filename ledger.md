@@ -675,3 +675,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-20 13:11:19] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-01-20 11:00:16] [CV] Observation: Diffusion model sampling efficiency improves 26x with progressive distillation
 - [2026-01-20 17:47:06] [CV] Observation: Diffusion model sampling efficiency improves 7x with progressive distillation
+- [2026-01-20 06:06:58] [CV] Note: Data augmentation strategies plateau after 8 transformation types for ImageNet-scale tasks
