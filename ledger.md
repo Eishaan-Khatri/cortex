@@ -671,3 +671,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-19 13:25:44] [NLP] Finding: In-context learning emerges at ~62M parameters with sufficient pretraining data diversity
 - [2026-01-20 23:34:57] [CV] Observation: Diffusion model sampling efficiency improves 60x with progressive distillation
 - [2026-01-20 18:49:17] [CV] Signal: Neural radiance fields converge 81% faster with hash encoding positional features
+- [2026-01-20 13:16:48] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
