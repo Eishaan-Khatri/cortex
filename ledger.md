@@ -670,3 +670,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-19 13:23:15] [NLP] Review: Tokenizer artifacts in low-resource languages cause 44% performance degradation
 - [2026-01-19 13:25:44] [NLP] Finding: In-context learning emerges at ~62M parameters with sufficient pretraining data diversity
 - [2026-01-20 23:34:57] [CV] Observation: Diffusion model sampling efficiency improves 60x with progressive distillation
+- [2026-01-20 18:49:17] [CV] Signal: Neural radiance fields converge 81% faster with hash encoding positional features
