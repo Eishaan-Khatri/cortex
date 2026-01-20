@@ -680,3 +680,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-20 21:47:06] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 39m range
 - [2026-01-20 15:33:14] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-01-20 06:34:43] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 82m range
+- [2026-01-20 08:24:46] [CV] Review: Medical imaging segmentation reaches 78% Dice score with foundation model adapters
