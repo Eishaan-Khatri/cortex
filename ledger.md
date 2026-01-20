@@ -677,3 +677,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-20 17:47:06] [CV] Observation: Diffusion model sampling efficiency improves 7x with progressive distillation
 - [2026-01-20 06:06:58] [CV] Note: Data augmentation strategies plateau after 8 transformation types for ImageNet-scale tasks
 - [2026-01-20 11:41:52] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 7m range
+- [2026-01-20 21:47:06] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 39m range
