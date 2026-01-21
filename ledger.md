@@ -687,3 +687,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-21 17:34:32] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-01-21 12:30:44] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 18K features
 - [2026-01-21 08:05:10] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2026-01-21 19:12:18] [XAI] Review: EU AI Act compliance requires interpretability for 53% of current production systems
