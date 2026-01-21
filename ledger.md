@@ -684,3 +684,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-21 13:53:03] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-01-21 21:34:52] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-01-21 17:25:44] [XAI] Review: EU AI Act compliance requires interpretability for 29% of current production systems
+- [2026-01-21 17:34:32] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
