@@ -699,3 +699,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-22 12:31:59] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 43%
 - [2026-01-22 09:09:21] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 54% correlation
 - [2026-01-22 16:25:38] [BCI] Review: Brain-to-text systems achieve 51 words/minute in controlled settings
+- [2026-01-22 11:02:53] [BCI] Signal: Non-invasive BCI bandwidth limited to ~19 bits/minute for spelling applications
