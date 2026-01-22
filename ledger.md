@@ -693,3 +693,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-21 13:37:22] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 65% of transformer layers
 - [2026-01-21 18:35:04] [XAI] Analysis: Saliency maps disagree across methods for 74% of adversarial examples
 - [2026-01-22 12:03:20] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2026-01-22 19:10:03] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 49%
