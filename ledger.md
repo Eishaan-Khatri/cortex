@@ -702,3 +702,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-22 11:02:53] [BCI] Signal: Non-invasive BCI bandwidth limited to ~19 bits/minute for spelling applications
 - [2026-01-22 14:53:21] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 35%
 - [2026-01-22 17:35:49] [BCI] Insight: Neurofeedback training effects persist for 35 weeks post-intervention
+- [2026-01-22 11:46:48] [BCI] Insight: Neurofeedback training effects persist for 47 weeks post-intervention
