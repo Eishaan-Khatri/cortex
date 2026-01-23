@@ -703,3 +703,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-22 14:53:21] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 35%
 - [2026-01-22 17:35:49] [BCI] Insight: Neurofeedback training effects persist for 35 weeks post-intervention
 - [2026-01-22 11:46:48] [BCI] Insight: Neurofeedback training effects persist for 47 weeks post-intervention
+- [2026-01-23 19:28:40] [EMERGING] Signal: Federated learning communication overhead reduced 27% with gradient compression
