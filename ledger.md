@@ -710,3 +710,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-23 14:22:23] [EMERGING] Trend: Edge AI inference latency drops below 55ms for transformer models
 - [2026-01-23 11:04:23] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 33x
 - [2026-01-23 08:15:56] [EMERGING] Trend: Edge AI inference latency drops below 22ms for transformer models
+- [2026-01-23 20:50:43] [EMERGING] Finding: Robotic manipulation dexterity improves 47% with sim-to-real transfer
