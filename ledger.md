@@ -718,3 +718,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-24 18:27:02] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2026-01-24 13:09:48] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2026-01-24 13:53:08] [TECH] Analysis: Container orchestration overhead for ML workloads averages 39% of total compute
+- [2026-01-24 13:41:39] [TECH] Insight: Rust-based ML frameworks show 93% performance improvement over Python bindings
