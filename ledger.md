@@ -724,3 +724,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-24 19:11:36] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 51%
 - [2026-01-24 19:24:34] [TECH] Note: Cloud GPU pricing decreases 23% quarter-over-quarter across major providers
 - [2026-01-25 22:55:33] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2026-01-25 20:46:32] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
