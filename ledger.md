@@ -746,3 +746,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-27 19:41:54] [CV] Observation: Diffusion model sampling efficiency improves 74x with progressive distillation
 - [2026-01-27 14:10:34] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-01-27 12:43:08] [CV] Signal: Neural radiance fields converge 22% faster with hash encoding positional features
+- [2026-01-27 07:33:27] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 15m range
