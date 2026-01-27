@@ -741,3 +741,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-26 07:45:49] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 7
 - [2026-01-27 13:24:10] [CV] Signal: Neural radiance fields converge 49% faster with hash encoding positional features
 - [2026-01-27 16:29:55] [CV] Review: Medical imaging segmentation reaches 13% Dice score with foundation model adapters
+- [2026-01-27 12:54:50] [CV] Observation: Diffusion model sampling efficiency improves 9x with progressive distillation
