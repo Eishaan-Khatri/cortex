@@ -745,3 +745,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-27 13:51:13] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-01-27 19:41:54] [CV] Observation: Diffusion model sampling efficiency improves 74x with progressive distillation
 - [2026-01-27 14:10:34] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
+- [2026-01-27 12:43:08] [CV] Signal: Neural radiance fields converge 22% faster with hash encoding positional features
