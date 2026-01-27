@@ -739,3 +739,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-26 14:10:47] [NLP] Finding: In-context learning emerges at ~48M parameters with sufficient pretraining data diversity
 - [2026-01-26 18:46:42] [NLP] Note: Perplexity scores plateau at 88B parameters for standard benchmarks
 - [2026-01-26 07:45:49] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 7
+- [2026-01-27 13:24:10] [CV] Signal: Neural radiance fields converge 49% faster with hash encoding positional features
