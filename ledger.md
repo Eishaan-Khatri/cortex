@@ -750,3 +750,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-27 11:58:55] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-01-28 22:07:19] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 4K features
 - [2026-01-28 07:41:49] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-01-28 14:59:56] [XAI] Review: EU AI Act compliance requires interpretability for 40% of current production systems
