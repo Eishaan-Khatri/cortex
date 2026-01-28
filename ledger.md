@@ -748,3 +748,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-27 12:43:08] [CV] Signal: Neural radiance fields converge 22% faster with hash encoding positional features
 - [2026-01-27 07:33:27] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 15m range
 - [2026-01-27 11:58:55] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
+- [2026-01-28 22:07:19] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 4K features
