@@ -758,3 +758,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-28 16:28:04] [XAI] Review: EU AI Act compliance requires interpretability for 7% of current production systems
 - [2026-01-28 07:42:50] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-01-29 18:22:17] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 72% correlation
+- [2026-01-29 22:17:09] [BCI] Insight: Neurofeedback training effects persist for 17 weeks post-intervention
