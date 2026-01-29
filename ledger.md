@@ -767,3 +767,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-29 22:14:00] [BCI] Analysis: EEG signal-to-noise ratio improves 55dB with adaptive artifact rejection
 - [2026-01-29 15:49:20] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 83% correlation
 - [2026-01-29 15:51:38] [BCI] Review: Brain-to-text systems achieve 2 words/minute in controlled settings
+- [2026-01-29 09:56:18] [BCI] Review: Brain-to-text systems achieve 94 words/minute in controlled settings
