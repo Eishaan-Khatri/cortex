@@ -765,3 +765,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-29 09:37:56] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 77%
 - [2026-01-29 16:32:51] [BCI] Insight: Neurofeedback training effects persist for 32 weeks post-intervention
 - [2026-01-29 22:14:00] [BCI] Analysis: EEG signal-to-noise ratio improves 55dB with adaptive artifact rejection
+- [2026-01-29 15:49:20] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 83% correlation
