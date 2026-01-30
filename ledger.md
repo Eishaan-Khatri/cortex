@@ -769,3 +769,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-29 15:51:38] [BCI] Review: Brain-to-text systems achieve 2 words/minute in controlled settings
 - [2026-01-29 09:56:18] [BCI] Review: Brain-to-text systems achieve 94 words/minute in controlled settings
 - [2026-01-29 11:04:21] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 89% correlation
+- [2026-01-30 06:59:14] [EMERGING] Finding: Robotic manipulation dexterity improves 9% with sim-to-real transfer
