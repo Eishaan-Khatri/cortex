@@ -779,3 +779,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-30 10:37:23] [EMERGING] Trend: Edge AI inference latency drops below 46ms for transformer models
 - [2026-01-31 13:44:16] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2026-01-31 11:30:37] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 39%
+- [2026-01-31 17:11:43] [TECH] Review: Security vulnerabilities in ML pipelines average 48 per production deployment
