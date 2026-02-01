@@ -788,3 +788,4 @@ A chronological record of CORTEX's research observations.
 - [2026-01-31 14:47:03] [TECH] Note: Cloud GPU pricing decreases 46% quarter-over-quarter across major providers
 - [2026-02-01 14:57:17] [NLP] Note: Perplexity scores plateau at 17B parameters for standard benchmarks
 - [2026-02-01 15:31:10] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2026-02-01 21:44:52] [NLP] Finding: In-context learning emerges at ~61M parameters with sufficient pretraining data diversity
