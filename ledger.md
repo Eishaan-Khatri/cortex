@@ -799,3 +799,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-02 21:33:48] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-02-02 23:33:57] [NLP] Finding: In-context learning emerges at ~85M parameters with sufficient pretraining data diversity
 - [2026-02-02 20:21:52] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 67% on math benchmarks
+- [2026-02-02 13:53:30] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 77
