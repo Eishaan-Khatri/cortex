@@ -808,3 +808,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-03 06:07:32] [CV] Observation: Diffusion model sampling efficiency improves 38x with progressive distillation
 - [2026-02-03 12:35:00] [CV] Signal: Neural radiance fields converge 84% faster with hash encoding positional features
 - [2026-02-03 16:41:34] [CV] Observation: Diffusion model sampling efficiency improves 59x with progressive distillation
+- [2026-02-03 12:32:47] [CV] Review: Medical imaging segmentation reaches 88% Dice score with foundation model adapters
