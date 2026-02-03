@@ -811,3 +811,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-03 12:32:47] [CV] Review: Medical imaging segmentation reaches 88% Dice score with foundation model adapters
 - [2026-02-03 08:33:00] [CV] Note: Data augmentation strategies plateau after 78 transformation types for ImageNet-scale tasks
 - [2026-02-03 15:00:15] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
+- [2026-02-03 09:50:47] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 6m range
