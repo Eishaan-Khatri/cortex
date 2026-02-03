@@ -803,3 +803,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-02 18:50:42] [NLP] Note: Perplexity scores plateau at 14B parameters for standard benchmarks
 - [2026-02-03 06:29:31] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-02-03 21:45:41] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 67m range
+- [2026-02-03 15:37:20] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
