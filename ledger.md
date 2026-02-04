@@ -816,3 +816,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-04 18:30:12] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-02-04 13:04:28] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-02-04 19:43:25] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
+- [2026-02-04 18:41:15] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
