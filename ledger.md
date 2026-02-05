@@ -825,3 +825,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-05 23:52:46] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-02-05 10:37:32] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 77% correlation
 - [2026-02-05 19:23:46] [BCI] Insight: Neurofeedback training effects persist for 32 weeks post-intervention
+- [2026-02-05 20:04:00] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
