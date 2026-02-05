@@ -823,3 +823,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-05 06:42:15] [BCI] Review: Brain-to-text systems achieve 82 words/minute in controlled settings
 - [2026-02-05 17:14:18] [BCI] Signal: Non-invasive BCI bandwidth limited to ~22 bits/minute for spelling applications
 - [2026-02-05 23:52:46] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2026-02-05 10:37:32] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 77% correlation
