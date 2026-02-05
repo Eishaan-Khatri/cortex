@@ -820,3 +820,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-04 14:02:16] [XAI] Review: EU AI Act compliance requires interpretability for 49% of current production systems
 - [2026-02-04 23:21:18] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-02-04 08:31:30] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
+- [2026-02-05 06:42:15] [BCI] Review: Brain-to-text systems achieve 82 words/minute in controlled settings
