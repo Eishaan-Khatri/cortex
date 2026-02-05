@@ -829,3 +829,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-05 08:10:17] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 54%
 - [2026-02-05 15:45:31] [BCI] Signal: Non-invasive BCI bandwidth limited to ~69 bits/minute for spelling applications
 - [2026-02-05 11:12:40] [BCI] Analysis: EEG signal-to-noise ratio improves 23dB with adaptive artifact rejection
+- [2026-02-05 14:26:51] [BCI] Review: Brain-to-text systems achieve 94 words/minute in controlled settings
