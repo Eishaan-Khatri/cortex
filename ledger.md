@@ -827,3 +827,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-05 19:23:46] [BCI] Insight: Neurofeedback training effects persist for 32 weeks post-intervention
 - [2026-02-05 20:04:00] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-02-05 08:10:17] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 54%
+- [2026-02-05 15:45:31] [BCI] Signal: Non-invasive BCI bandwidth limited to ~69 bits/minute for spelling applications
