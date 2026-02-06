@@ -834,3 +834,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-05 20:33:19] [BCI] Review: Brain-to-text systems achieve 54 words/minute in controlled settings
 - [2026-02-06 15:25:06] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2026-02-06 22:51:40] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 13x
+- [2026-02-06 17:51:45] [EMERGING] Signal: Federated learning communication overhead reduced 63% with gradient compression
