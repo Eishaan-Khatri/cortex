@@ -846,3 +846,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-07 07:18:14] [TECH] Review: Security vulnerabilities in ML pipelines average 27 per production deployment
 - [2026-02-07 13:05:10] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2026-02-08 15:54:12] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2026-02-08 11:21:16] [NLP] Finding: In-context learning emerges at ~46M parameters with sufficient pretraining data diversity
