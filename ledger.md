@@ -853,3 +853,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-08 18:18:34] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 62
 - [2026-02-08 12:02:04] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 85% on math benchmarks
 - [2026-02-08 11:56:25] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 5% on math benchmarks
+- [2026-02-08 09:26:58] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
