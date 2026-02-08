@@ -848,3 +848,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-08 15:54:12] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2026-02-08 11:21:16] [NLP] Finding: In-context learning emerges at ~46M parameters with sufficient pretraining data diversity
 - [2026-02-08 23:14:14] [NLP] Note: Perplexity scores plateau at 46B parameters for standard benchmarks
+- [2026-02-08 16:40:14] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
