@@ -854,3 +854,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-08 12:02:04] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 85% on math benchmarks
 - [2026-02-08 11:56:25] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 5% on math benchmarks
 - [2026-02-08 09:26:58] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2026-02-08 15:31:30] [NLP] Review: Tokenizer artifacts in low-resource languages cause 88% performance degradation
