@@ -857,3 +857,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-08 15:31:30] [NLP] Review: Tokenizer artifacts in low-resource languages cause 88% performance degradation
 - [2026-02-08 21:12:58] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-02-09 10:47:42] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2026-02-09 17:49:02] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 77
