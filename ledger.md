@@ -864,3 +864,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-10 22:37:40] [CV] Note: Data augmentation strategies plateau after 11 transformation types for ImageNet-scale tasks
 - [2026-02-10 11:26:58] [CV] Note: Data augmentation strategies plateau after 28 transformation types for ImageNet-scale tasks
 - [2026-02-10 06:04:48] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 78m range
+- [2026-02-10 19:37:29] [CV] Signal: Neural radiance fields converge 43% faster with hash encoding positional features
