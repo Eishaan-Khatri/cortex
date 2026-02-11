@@ -873,3 +873,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-11 23:14:23] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2026-02-11 11:26:45] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-02-11 14:05:53] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2026-02-11 15:22:48] [XAI] Analysis: Saliency maps disagree across methods for 59% of adversarial examples
