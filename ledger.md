@@ -869,3 +869,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-10 11:58:37] [CV] Note: Data augmentation strategies plateau after 42 transformation types for ImageNet-scale tasks
 - [2026-02-11 09:50:56] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 83K features
 - [2026-02-11 07:20:28] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2026-02-11 19:07:32] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 51K features
