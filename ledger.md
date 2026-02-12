@@ -876,3 +876,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-11 15:22:48] [XAI] Analysis: Saliency maps disagree across methods for 59% of adversarial examples
 - [2026-02-11 06:20:29] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 90K features
 - [2026-02-12 18:20:02] [BCI] Analysis: EEG signal-to-noise ratio improves 23dB with adaptive artifact rejection
+- [2026-02-12 08:01:29] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 27% correlation
