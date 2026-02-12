@@ -885,3 +885,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-12 23:02:54] [BCI] Observation: Motor imagery classification accuracy reaches 48% with subject-specific calibration
 - [2026-02-12 22:40:27] [BCI] Review: Brain-to-text systems achieve 12 words/minute in controlled settings
 - [2026-02-12 18:46:33] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 36% correlation
+- [2026-02-12 16:50:13] [BCI] Review: Brain-to-text systems achieve 94 words/minute in controlled settings
