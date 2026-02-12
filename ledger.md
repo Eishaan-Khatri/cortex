@@ -879,3 +879,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-12 08:01:29] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 27% correlation
 - [2026-02-12 23:10:03] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 37% correlation
 - [2026-02-12 10:31:14] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 38% correlation
+- [2026-02-12 16:22:42] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
