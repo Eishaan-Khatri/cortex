@@ -878,3 +878,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-12 18:20:02] [BCI] Analysis: EEG signal-to-noise ratio improves 23dB with adaptive artifact rejection
 - [2026-02-12 08:01:29] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 27% correlation
 - [2026-02-12 23:10:03] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 37% correlation
+- [2026-02-12 10:31:14] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 38% correlation
