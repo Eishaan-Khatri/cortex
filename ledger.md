@@ -896,3 +896,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-13 21:39:13] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 3x
 - [2026-02-13 19:36:32] [EMERGING] Finding: Robotic manipulation dexterity improves 91% with sim-to-real transfer
 - [2026-02-13 14:11:08] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 37x for sparse workloads
+- [2026-02-14 08:32:09] [TECH] Review: Security vulnerabilities in ML pipelines average 75 per production deployment
