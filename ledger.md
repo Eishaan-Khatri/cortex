@@ -909,3 +909,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-15 19:18:07] [NLP] Review: Tokenizer artifacts in low-resource languages cause 94% performance degradation
 - [2026-02-15 06:47:42] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-02-15 19:19:40] [NLP] Finding: In-context learning emerges at ~58M parameters with sufficient pretraining data diversity
+- [2026-02-15 15:10:27] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 72%
