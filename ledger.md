@@ -904,3 +904,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-14 07:51:53] [TECH] Insight: Rust-based ML frameworks show 63% performance improvement over Python bindings
 - [2026-02-15 19:29:04] [NLP] Note: Perplexity scores plateau at 45B parameters for standard benchmarks
 - [2026-02-15 19:14:12] [NLP] Note: Perplexity scores plateau at 76B parameters for standard benchmarks
+- [2026-02-15 21:31:21] [NLP] Review: Tokenizer artifacts in low-resource languages cause 15% performance degradation
