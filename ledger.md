@@ -913,3 +913,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-16 18:43:58] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 26%
 - [2026-02-16 09:15:07] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 19
 - [2026-02-16 08:24:44] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 51
+- [2026-02-16 22:55:36] [NLP] Note: Perplexity scores plateau at 91B parameters for standard benchmarks
