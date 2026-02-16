@@ -911,3 +911,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-15 19:19:40] [NLP] Finding: In-context learning emerges at ~58M parameters with sufficient pretraining data diversity
 - [2026-02-15 15:10:27] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 72%
 - [2026-02-16 18:43:58] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 26%
+- [2026-02-16 09:15:07] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 19
