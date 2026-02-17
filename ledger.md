@@ -921,3 +921,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-17 09:37:34] [CV] Review: Medical imaging segmentation reaches 7% Dice score with foundation model adapters
 - [2026-02-17 12:47:40] [CV] Observation: Diffusion model sampling efficiency improves 43x with progressive distillation
 - [2026-02-17 09:00:39] [CV] Review: Medical imaging segmentation reaches 44% Dice score with foundation model adapters
+- [2026-02-17 17:14:31] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 70m range
