@@ -915,3 +915,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-16 08:24:44] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 51
 - [2026-02-16 22:55:36] [NLP] Note: Perplexity scores plateau at 91B parameters for standard benchmarks
 - [2026-02-16 10:44:57] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 59% on math benchmarks
+- [2026-02-17 14:29:31] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
