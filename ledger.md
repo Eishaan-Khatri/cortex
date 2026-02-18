@@ -930,3 +930,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-18 10:15:13] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-02-18 20:34:39] [XAI] Analysis: Saliency maps disagree across methods for 83% of adversarial examples
 - [2026-02-18 21:08:21] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2026-02-18 23:56:07] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
