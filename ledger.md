@@ -926,3 +926,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-17 15:34:58] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-02-17 21:12:29] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-02-18 08:35:54] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 54% of transformer layers
+- [2026-02-18 21:38:09] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 85K features
