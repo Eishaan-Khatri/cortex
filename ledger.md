@@ -933,3 +933,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-18 23:56:07] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-02-18 10:16:17] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-02-18 16:35:02] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 95% of transformer layers
+- [2026-02-18 18:25:06] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 41K features
