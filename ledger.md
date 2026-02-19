@@ -939,3 +939,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-19 12:46:09] [BCI] Observation: Motor imagery classification accuracy reaches 70% with subject-specific calibration
 - [2026-02-19 17:29:37] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 75% correlation
 - [2026-02-19 13:52:54] [BCI] Analysis: EEG signal-to-noise ratio improves 45dB with adaptive artifact rejection
+- [2026-02-19 18:46:21] [BCI] Analysis: EEG signal-to-noise ratio improves 94dB with adaptive artifact rejection
