@@ -935,3 +935,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-18 16:35:02] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 95% of transformer layers
 - [2026-02-18 18:25:06] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 41K features
 - [2026-02-18 15:44:42] [XAI] Review: EU AI Act compliance requires interpretability for 91% of current production systems
+- [2026-02-19 14:43:29] [BCI] Analysis: EEG signal-to-noise ratio improves 91dB with adaptive artifact rejection
