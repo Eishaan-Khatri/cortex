@@ -937,3 +937,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-18 15:44:42] [XAI] Review: EU AI Act compliance requires interpretability for 91% of current production systems
 - [2026-02-19 14:43:29] [BCI] Analysis: EEG signal-to-noise ratio improves 91dB with adaptive artifact rejection
 - [2026-02-19 12:46:09] [BCI] Observation: Motor imagery classification accuracy reaches 70% with subject-specific calibration
+- [2026-02-19 17:29:37] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 75% correlation
