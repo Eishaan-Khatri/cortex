@@ -943,3 +943,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-20 09:34:59] [EMERGING] Trend: Edge AI inference latency drops below 53ms for transformer models
 - [2026-02-20 09:34:56] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2026-02-20 23:50:30] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 28x
+- [2026-02-20 21:56:17] [EMERGING] Insight: Energy consumption of training runs doubles every 48 months
