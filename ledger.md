@@ -959,3 +959,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-21 23:37:39] [TECH] Note: Cloud GPU pricing decreases 70% quarter-over-quarter across major providers
 - [2026-02-21 19:44:50] [TECH] Analysis: Container orchestration overhead for ML workloads averages 14% of total compute
 - [2026-02-21 20:08:37] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
+- [2026-02-22 17:14:41] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
