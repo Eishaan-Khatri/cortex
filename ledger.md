@@ -963,3 +963,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-22 09:48:49] [NLP] Note: Perplexity scores plateau at 23B parameters for standard benchmarks
 - [2026-02-22 15:36:23] [NLP] Note: Perplexity scores plateau at 7B parameters for standard benchmarks
 - [2026-02-22 21:35:17] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 52
+- [2026-02-22 07:59:27] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 45
