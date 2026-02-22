@@ -965,3 +965,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-22 21:35:17] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 52
 - [2026-02-22 07:59:27] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 45
 - [2026-02-22 06:28:49] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 89%
+- [2026-02-22 09:00:34] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
