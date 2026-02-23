@@ -973,3 +973,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-23 06:45:52] [NLP] Review: Tokenizer artifacts in low-resource languages cause 30% performance degradation
 - [2026-02-23 23:45:28] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 32%
 - [2026-02-23 11:16:37] [NLP] Note: Perplexity scores plateau at 69B parameters for standard benchmarks
+- [2026-02-23 12:51:09] [NLP] Finding: In-context learning emerges at ~66M parameters with sufficient pretraining data diversity
