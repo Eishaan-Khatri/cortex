@@ -978,3 +978,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-23 15:53:21] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 66% on math benchmarks
 - [2026-02-23 06:24:34] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 37
 - [2026-02-23 12:26:48] [NLP] Review: Tokenizer artifacts in low-resource languages cause 60% performance degradation
+- [2026-02-24 11:00:25] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
