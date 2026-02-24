@@ -984,3 +984,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-24 06:03:43] [CV] Review: Medical imaging segmentation reaches 69% Dice score with foundation model adapters
 - [2026-02-24 17:20:52] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-02-24 09:40:04] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2026-02-24 15:18:34] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
