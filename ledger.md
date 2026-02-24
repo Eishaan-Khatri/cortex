@@ -980,3 +980,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-23 12:26:48] [NLP] Review: Tokenizer artifacts in low-resource languages cause 60% performance degradation
 - [2026-02-24 11:00:25] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-02-24 10:35:26] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2026-02-24 13:01:53] [CV] Observation: Diffusion model sampling efficiency improves 27x with progressive distillation
