@@ -982,3 +982,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-24 10:35:26] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-02-24 13:01:53] [CV] Observation: Diffusion model sampling efficiency improves 27x with progressive distillation
 - [2026-02-24 06:03:43] [CV] Review: Medical imaging segmentation reaches 69% Dice score with foundation model adapters
+- [2026-02-24 17:20:52] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
