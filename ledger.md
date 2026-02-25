@@ -990,3 +990,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-24 17:32:08] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-02-24 21:47:06] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-02-25 06:43:24] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-02-25 16:33:11] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 62% of transformer layers
