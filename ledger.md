@@ -994,3 +994,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-25 12:56:34] [XAI] Review: EU AI Act compliance requires interpretability for 21% of current production systems
 - [2026-02-25 20:57:49] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-02-25 20:08:52] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 40% of transformer layers
+- [2026-02-26 15:26:47] [BCI] Insight: Neurofeedback training effects persist for 23 weeks post-intervention
