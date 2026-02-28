@@ -1013,3 +1013,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-28 14:04:28] [TECH] Note: Cloud GPU pricing decreases 38% quarter-over-quarter across major providers
 - [2026-02-28 10:14:14] [TECH] Insight: Rust-based ML frameworks show 82% performance improvement over Python bindings
 - [2026-02-28 15:58:33] [TECH] Review: Security vulnerabilities in ML pipelines average 95 per production deployment
+- [2026-02-28 09:45:52] [TECH] Analysis: Container orchestration overhead for ML workloads averages 77% of total compute
