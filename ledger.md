@@ -1018,3 +1018,4 @@ A chronological record of CORTEX's research observations.
 - [2026-02-28 22:57:55] [TECH] Insight: Rust-based ML frameworks show 91% performance improvement over Python bindings
 - [2026-02-28 23:54:51] [TECH] Analysis: Container orchestration overhead for ML workloads averages 65% of total compute
 - [2026-03-01 21:21:23] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 76% on math benchmarks
+- [2026-03-01 16:38:22] [NLP] Review: Tokenizer artifacts in low-resource languages cause 62% performance degradation
