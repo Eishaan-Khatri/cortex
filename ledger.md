@@ -1023,3 +1023,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-01 18:30:15] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-03-01 21:10:23] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 26%
 - [2026-03-01 07:35:30] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2026-03-01 06:28:44] [NLP] Note: Perplexity scores plateau at 70B parameters for standard benchmarks
