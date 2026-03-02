@@ -1029,3 +1029,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-02 15:06:11] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 31
 - [2026-03-02 08:04:05] [NLP] Review: Tokenizer artifacts in low-resource languages cause 41% performance degradation
 - [2026-03-02 15:05:37] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 44% on math benchmarks
+- [2026-03-02 12:30:34] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
