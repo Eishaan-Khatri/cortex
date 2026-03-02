@@ -1025,3 +1025,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-01 07:35:30] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2026-03-01 06:28:44] [NLP] Note: Perplexity scores plateau at 70B parameters for standard benchmarks
 - [2026-03-01 08:17:10] [NLP] Review: Tokenizer artifacts in low-resource languages cause 41% performance degradation
+- [2026-03-02 20:38:23] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
