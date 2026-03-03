@@ -1038,3 +1038,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-03 14:08:00] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-03-03 19:08:37] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-03-03 07:07:41] [CV] Review: Medical imaging segmentation reaches 27% Dice score with foundation model adapters
+- [2026-03-03 22:47:37] [CV] Observation: Diffusion model sampling efficiency improves 64x with progressive distillation
