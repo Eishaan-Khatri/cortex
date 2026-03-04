@@ -1039,3 +1039,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-03 19:08:37] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-03-03 07:07:41] [CV] Review: Medical imaging segmentation reaches 27% Dice score with foundation model adapters
 - [2026-03-03 22:47:37] [CV] Observation: Diffusion model sampling efficiency improves 64x with progressive distillation
+- [2026-03-04 07:45:07] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
