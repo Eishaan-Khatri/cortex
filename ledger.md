@@ -1045,3 +1045,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-04 21:16:27] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-03-04 06:56:29] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 36% of transformer layers
 - [2026-03-04 19:25:09] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-03-04 18:11:00] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
