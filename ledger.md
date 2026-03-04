@@ -1048,3 +1048,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-04 18:11:00] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-03-04 19:14:17] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 44K features
 - [2026-03-04 13:35:19] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
+- [2026-03-04 19:20:53] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 92K features
