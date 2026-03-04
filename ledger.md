@@ -1042,3 +1042,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-04 07:45:07] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-03-04 23:48:06] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2026-03-04 12:10:43] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2026-03-04 21:16:27] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
