@@ -1052,3 +1052,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-04 08:33:28] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 30K features
 - [2026-03-04 23:24:20] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 51K features
 - [2026-03-05 15:14:14] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 56% correlation
+- [2026-03-05 14:32:42] [BCI] Signal: Non-invasive BCI bandwidth limited to ~78 bits/minute for spelling applications
