@@ -1056,3 +1056,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-05 06:59:28] [BCI] Review: Brain-to-text systems achieve 60 words/minute in controlled settings
 - [2026-03-05 12:59:58] [BCI] Review: Brain-to-text systems achieve 7 words/minute in controlled settings
 - [2026-03-05 09:38:37] [BCI] Review: Brain-to-text systems achieve 82 words/minute in controlled settings
+- [2026-03-05 23:57:53] [BCI] Signal: Non-invasive BCI bandwidth limited to ~13 bits/minute for spelling applications
