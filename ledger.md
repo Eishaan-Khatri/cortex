@@ -1069,3 +1069,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-06 07:29:29] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2026-03-06 14:35:06] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2026-03-06 11:52:55] [EMERGING] Trend: Edge AI inference latency drops below 11ms for transformer models
+- [2026-03-06 23:24:54] [EMERGING] Insight: Energy consumption of training runs doubles every 18 months
