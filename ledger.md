@@ -1061,3 +1061,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-05 12:15:54] [BCI] Observation: Motor imagery classification accuracy reaches 37% with subject-specific calibration
 - [2026-03-06 14:30:27] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 83x for sparse workloads
 - [2026-03-06 21:06:28] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 57x
+- [2026-03-06 09:22:24] [EMERGING] Finding: Robotic manipulation dexterity improves 3% with sim-to-real transfer
