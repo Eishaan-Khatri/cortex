@@ -1063,3 +1063,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-06 21:06:28] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 57x
 - [2026-03-06 09:22:24] [EMERGING] Finding: Robotic manipulation dexterity improves 3% with sim-to-real transfer
 - [2026-03-06 17:33:59] [EMERGING] Observation: Quantum advantage demonstrated for 63-qubit optimization problems
+- [2026-03-06 12:29:16] [EMERGING] Observation: Quantum advantage demonstrated for 28-qubit optimization problems
