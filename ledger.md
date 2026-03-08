@@ -1085,3 +1085,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-08 13:45:04] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 93
 - [2026-03-08 21:26:49] [NLP] Note: Perplexity scores plateau at 53B parameters for standard benchmarks
 - [2026-03-08 10:45:56] [NLP] Review: Tokenizer artifacts in low-resource languages cause 11% performance degradation
+- [2026-03-08 15:43:40] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 10%
