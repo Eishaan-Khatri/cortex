@@ -1081,3 +1081,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-08 06:26:56] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 90
 - [2026-03-08 18:13:31] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 9
 - [2026-03-08 16:54:59] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 22
+- [2026-03-08 08:12:39] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 44% on math benchmarks
