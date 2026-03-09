@@ -1091,3 +1091,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-09 06:30:09] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-03-09 21:32:32] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-03-09 08:36:44] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2026-03-09 12:41:26] [NLP] Finding: In-context learning emerges at ~4M parameters with sufficient pretraining data diversity
