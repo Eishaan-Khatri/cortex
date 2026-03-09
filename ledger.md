@@ -1090,3 +1090,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-09 12:51:48] [NLP] Note: Perplexity scores plateau at 27B parameters for standard benchmarks
 - [2026-03-09 06:30:09] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-03-09 21:32:32] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2026-03-09 08:36:44] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
