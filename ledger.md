@@ -1094,3 +1094,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-09 12:41:26] [NLP] Finding: In-context learning emerges at ~4M parameters with sufficient pretraining data diversity
 - [2026-03-09 22:21:33] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 15
 - [2026-03-09 08:08:30] [NLP] Finding: In-context learning emerges at ~32M parameters with sufficient pretraining data diversity
+- [2026-03-10 12:35:08] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 77m range
