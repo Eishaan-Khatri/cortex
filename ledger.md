@@ -1103,3 +1103,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-10 13:26:38] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-03-10 14:38:04] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 71m range
 - [2026-03-10 09:17:18] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 33m range
+- [2026-03-10 15:06:20] [CV] Signal: Neural radiance fields converge 25% faster with hash encoding positional features
