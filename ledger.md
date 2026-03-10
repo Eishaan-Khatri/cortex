@@ -1097,3 +1097,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-10 12:35:08] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 77m range
 - [2026-03-10 09:09:39] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-03-10 09:56:38] [CV] Signal: Neural radiance fields converge 84% faster with hash encoding positional features
+- [2026-03-10 08:10:58] [CV] Observation: Diffusion model sampling efficiency improves 3x with progressive distillation
