@@ -1108,3 +1108,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-10 14:14:45] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-03-11 15:14:07] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-03-11 13:01:00] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2026-03-11 09:19:20] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
