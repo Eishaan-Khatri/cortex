@@ -1113,3 +1113,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-11 11:31:03] [XAI] Review: EU AI Act compliance requires interpretability for 20% of current production systems
 - [2026-03-11 16:47:57] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-03-11 18:44:48] [XAI] Review: EU AI Act compliance requires interpretability for 66% of current production systems
+- [2026-03-12 08:44:57] [BCI] Signal: Non-invasive BCI bandwidth limited to ~89 bits/minute for spelling applications
