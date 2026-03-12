@@ -1120,3 +1120,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-12 16:58:44] [BCI] Insight: Neurofeedback training effects persist for 26 weeks post-intervention
 - [2026-03-12 18:44:06] [BCI] Signal: Non-invasive BCI bandwidth limited to ~86 bits/minute for spelling applications
 - [2026-03-12 17:18:49] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2026-03-12 19:26:49] [BCI] Insight: Neurofeedback training effects persist for 24 weeks post-intervention
