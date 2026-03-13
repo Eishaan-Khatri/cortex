@@ -1129,3 +1129,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-13 16:51:05] [EMERGING] Trend: Edge AI inference latency drops below 90ms for transformer models
 - [2026-03-13 12:33:55] [EMERGING] Insight: Energy consumption of training runs doubles every 24 months
 - [2026-03-13 21:53:20] [EMERGING] Trend: Edge AI inference latency drops below 9ms for transformer models
+- [2026-03-13 23:31:07] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 71x
