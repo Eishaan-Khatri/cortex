@@ -1132,3 +1132,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-13 23:31:07] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 71x
 - [2026-03-13 10:22:29] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 31x
 - [2026-03-13 11:21:48] [EMERGING] Insight: Energy consumption of training runs doubles every 86 months
+- [2026-03-14 10:36:14] [TECH] Note: Cloud GPU pricing decreases 68% quarter-over-quarter across major providers
