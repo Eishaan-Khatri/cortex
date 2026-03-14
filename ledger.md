@@ -1136,3 +1136,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-14 08:26:31] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2026-03-14 07:47:39] [TECH] Note: Cloud GPU pricing decreases 24% quarter-over-quarter across major providers
 - [2026-03-14 19:41:04] [TECH] Insight: Rust-based ML frameworks show 33% performance improvement over Python bindings
+- [2026-03-14 12:30:54] [TECH] Review: Security vulnerabilities in ML pipelines average 90 per production deployment
