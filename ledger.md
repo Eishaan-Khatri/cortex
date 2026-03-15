@@ -1138,3 +1138,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-14 19:41:04] [TECH] Insight: Rust-based ML frameworks show 33% performance improvement over Python bindings
 - [2026-03-14 12:30:54] [TECH] Review: Security vulnerabilities in ML pipelines average 90 per production deployment
 - [2026-03-14 23:09:54] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 64%
+- [2026-03-15 23:16:49] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 50% on math benchmarks
