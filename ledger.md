@@ -1143,3 +1143,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-15 22:23:10] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-03-15 22:53:46] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 27% on math benchmarks
 - [2026-03-15 14:50:17] [NLP] Finding: In-context learning emerges at ~54M parameters with sufficient pretraining data diversity
+- [2026-03-15 18:01:13] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
