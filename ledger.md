@@ -1140,3 +1140,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-14 23:09:54] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 64%
 - [2026-03-15 23:16:49] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 50% on math benchmarks
 - [2026-03-15 06:05:49] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 23%
+- [2026-03-15 22:23:10] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
