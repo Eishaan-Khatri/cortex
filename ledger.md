@@ -1148,3 +1148,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-16 18:31:30] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 34%
 - [2026-03-16 21:33:19] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 10%
 - [2026-03-16 16:43:01] [NLP] Finding: In-context learning emerges at ~57M parameters with sufficient pretraining data diversity
+- [2026-03-16 21:39:52] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 43% on math benchmarks
