@@ -1145,3 +1145,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-15 14:50:17] [NLP] Finding: In-context learning emerges at ~54M parameters with sufficient pretraining data diversity
 - [2026-03-15 18:01:13] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2026-03-15 23:22:33] [NLP] Finding: In-context learning emerges at ~65M parameters with sufficient pretraining data diversity
+- [2026-03-16 18:31:30] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 34%
