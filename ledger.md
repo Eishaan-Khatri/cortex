@@ -1158,3 +1158,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-16 21:04:02] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 18
 - [2026-03-16 19:15:27] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-03-17 06:41:05] [CV] Signal: Neural radiance fields converge 5% faster with hash encoding positional features
+- [2026-03-17 08:54:58] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 20m range
