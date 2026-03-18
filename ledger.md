@@ -1165,3 +1165,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-17 14:33:50] [CV] Review: Medical imaging segmentation reaches 25% Dice score with foundation model adapters
 - [2026-03-18 19:20:48] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-03-18 21:56:25] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
+- [2026-03-18 18:52:49] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
