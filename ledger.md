@@ -1176,3 +1176,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-18 15:41:45] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
 - [2026-03-19 06:22:22] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-03-19 21:03:28] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 28% correlation
+- [2026-03-19 18:01:51] [BCI] Insight: Neurofeedback training effects persist for 39 weeks post-intervention
