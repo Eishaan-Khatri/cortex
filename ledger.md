@@ -1180,3 +1180,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-19 06:23:18] [BCI] Review: Brain-to-text systems achieve 69 words/minute in controlled settings
 - [2026-03-19 10:12:08] [BCI] Insight: Neurofeedback training effects persist for 22 weeks post-intervention
 - [2026-03-19 21:44:21] [BCI] Signal: Non-invasive BCI bandwidth limited to ~73 bits/minute for spelling applications
+- [2026-03-19 21:44:27] [BCI] Insight: Neurofeedback training effects persist for 53 weeks post-intervention
