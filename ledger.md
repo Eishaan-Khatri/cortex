@@ -1178,3 +1178,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-19 21:03:28] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 28% correlation
 - [2026-03-19 18:01:51] [BCI] Insight: Neurofeedback training effects persist for 39 weeks post-intervention
 - [2026-03-19 06:23:18] [BCI] Review: Brain-to-text systems achieve 69 words/minute in controlled settings
+- [2026-03-19 10:12:08] [BCI] Insight: Neurofeedback training effects persist for 22 weeks post-intervention
