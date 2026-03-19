@@ -1174,3 +1174,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-18 14:13:10] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-03-18 15:13:11] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 66% of transformer layers
 - [2026-03-18 15:41:45] [XAI] Note: Concept-based explanations preferred by domain experts over pixel-level attribution
+- [2026-03-19 06:22:22] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
