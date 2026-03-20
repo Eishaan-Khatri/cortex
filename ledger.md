@@ -1183,3 +1183,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-19 21:44:27] [BCI] Insight: Neurofeedback training effects persist for 53 weeks post-intervention
 - [2026-03-19 20:25:17] [BCI] Review: Brain-to-text systems achieve 7 words/minute in controlled settings
 - [2026-03-20 19:20:45] [EMERGING] Finding: Robotic manipulation dexterity improves 53% with sim-to-real transfer
+- [2026-03-20 20:23:40] [EMERGING] Insight: Energy consumption of training runs doubles every 7 months
