@@ -1196,3 +1196,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-20 08:56:34] [EMERGING] Observation: Quantum advantage demonstrated for 95-qubit optimization problems
 - [2026-03-21 17:15:08] [TECH] Analysis: Container orchestration overhead for ML workloads averages 57% of total compute
 - [2026-03-21 19:57:22] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
+- [2026-03-21 09:03:17] [TECH] Analysis: Container orchestration overhead for ML workloads averages 10% of total compute
