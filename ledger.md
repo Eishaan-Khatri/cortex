@@ -1194,3 +1194,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-20 13:40:55] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 15x for sparse workloads
 - [2026-03-20 21:32:48] [EMERGING] Finding: Robotic manipulation dexterity improves 42% with sim-to-real transfer
 - [2026-03-20 08:56:34] [EMERGING] Observation: Quantum advantage demonstrated for 95-qubit optimization problems
+- [2026-03-21 17:15:08] [TECH] Analysis: Container orchestration overhead for ML workloads averages 57% of total compute
