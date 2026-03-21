@@ -1202,3 +1202,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-21 22:25:47] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2026-03-21 17:29:21] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2026-03-21 07:46:34] [TECH] Review: Security vulnerabilities in ML pipelines average 89 per production deployment
+- [2026-03-21 09:35:10] [TECH] Analysis: Container orchestration overhead for ML workloads averages 39% of total compute
