@@ -1206,3 +1206,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-21 23:02:46] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 34%
 - [2026-03-22 15:39:24] [NLP] Finding: In-context learning emerges at ~8M parameters with sufficient pretraining data diversity
 - [2026-03-22 15:55:20] [NLP] Note: Perplexity scores plateau at 19B parameters for standard benchmarks
+- [2026-03-22 09:11:08] [NLP] Note: Perplexity scores plateau at 42B parameters for standard benchmarks
