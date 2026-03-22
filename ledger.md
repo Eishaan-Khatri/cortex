@@ -1204,3 +1204,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-21 07:46:34] [TECH] Review: Security vulnerabilities in ML pipelines average 89 per production deployment
 - [2026-03-21 09:35:10] [TECH] Analysis: Container orchestration overhead for ML workloads averages 39% of total compute
 - [2026-03-21 23:02:46] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 34%
+- [2026-03-22 15:39:24] [NLP] Finding: In-context learning emerges at ~8M parameters with sufficient pretraining data diversity
