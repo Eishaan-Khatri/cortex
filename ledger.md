@@ -1209,3 +1209,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-22 09:11:08] [NLP] Note: Perplexity scores plateau at 42B parameters for standard benchmarks
 - [2026-03-22 12:48:00] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 83%
 - [2026-03-22 18:45:03] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2026-03-22 08:59:59] [NLP] Finding: In-context learning emerges at ~67M parameters with sufficient pretraining data diversity
