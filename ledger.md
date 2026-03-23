@@ -1220,3 +1220,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-23 15:39:59] [NLP] Finding: In-context learning emerges at ~94M parameters with sufficient pretraining data diversity
 - [2026-03-23 09:49:19] [NLP] Finding: In-context learning emerges at ~63M parameters with sufficient pretraining data diversity
 - [2026-03-23 12:07:37] [NLP] Review: Tokenizer artifacts in low-resource languages cause 46% performance degradation
+- [2026-03-23 18:27:11] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
