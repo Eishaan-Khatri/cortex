@@ -1216,3 +1216,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-22 15:17:54] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 69% on math benchmarks
 - [2026-03-23 15:53:22] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 60
 - [2026-03-23 18:24:38] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 20%
+- [2026-03-23 23:19:56] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
