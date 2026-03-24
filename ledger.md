@@ -1226,3 +1226,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-24 17:19:59] [CV] Signal: Neural radiance fields converge 43% faster with hash encoding positional features
 - [2026-03-24 12:21:57] [CV] Note: Data augmentation strategies plateau after 52 transformation types for ImageNet-scale tasks
 - [2026-03-24 22:50:34] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 10m range
+- [2026-03-24 08:53:01] [CV] Observation: Diffusion model sampling efficiency improves 75x with progressive distillation
