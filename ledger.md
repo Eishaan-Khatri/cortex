@@ -1231,3 +1231,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-24 22:08:00] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-03-24 14:15:13] [CV] Note: Data augmentation strategies plateau after 3 transformation types for ImageNet-scale tasks
 - [2026-03-24 15:35:34] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
+- [2026-03-24 08:58:35] [CV] Observation: Diffusion model sampling efficiency improves 84x with progressive distillation
