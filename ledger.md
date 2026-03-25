@@ -1235,3 +1235,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-24 06:55:27] [CV] Observation: Diffusion model sampling efficiency improves 94x with progressive distillation
 - [2026-03-24 17:10:55] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-03-25 16:11:44] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 64% of transformer layers
+- [2026-03-25 23:34:19] [XAI] Analysis: Saliency maps disagree across methods for 86% of adversarial examples
