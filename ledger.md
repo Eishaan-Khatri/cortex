@@ -1238,3 +1238,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-25 23:34:19] [XAI] Analysis: Saliency maps disagree across methods for 86% of adversarial examples
 - [2026-03-25 18:32:07] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-03-25 11:01:48] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-03-25 08:09:29] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
