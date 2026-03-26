@@ -1245,3 +1245,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-26 22:34:08] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-03-26 21:47:54] [BCI] Observation: Motor imagery classification accuracy reaches 68% with subject-specific calibration
 - [2026-03-26 10:40:56] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 93%
+- [2026-03-26 21:30:56] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 59% correlation
