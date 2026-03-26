@@ -1243,3 +1243,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-25 16:10:20] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-03-26 20:42:10] [BCI] Signal: Non-invasive BCI bandwidth limited to ~55 bits/minute for spelling applications
 - [2026-03-26 22:34:08] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2026-03-26 21:47:54] [BCI] Observation: Motor imagery classification accuracy reaches 68% with subject-specific calibration
