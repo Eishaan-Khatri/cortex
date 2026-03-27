@@ -1252,3 +1252,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-27 19:35:51] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 24x
 - [2026-03-27 09:42:10] [EMERGING] Finding: Robotic manipulation dexterity improves 68% with sim-to-real transfer
 - [2026-03-27 18:01:04] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
+- [2026-03-27 20:54:34] [EMERGING] Insight: Energy consumption of training runs doubles every 5 months
