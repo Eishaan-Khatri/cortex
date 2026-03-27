@@ -1256,3 +1256,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-27 18:44:37] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2026-03-27 23:00:29] [EMERGING] Observation: Quantum advantage demonstrated for 91-qubit optimization problems
 - [2026-03-27 07:28:52] [EMERGING] Observation: Quantum advantage demonstrated for 84-qubit optimization problems
+- [2026-03-27 12:16:14] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 32x
