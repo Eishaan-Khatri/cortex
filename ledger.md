@@ -1251,3 +1251,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-26 21:31:37] [BCI] Review: Brain-to-text systems achieve 32 words/minute in controlled settings
 - [2026-03-27 19:35:51] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 24x
 - [2026-03-27 09:42:10] [EMERGING] Finding: Robotic manipulation dexterity improves 68% with sim-to-real transfer
+- [2026-03-27 18:01:04] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
