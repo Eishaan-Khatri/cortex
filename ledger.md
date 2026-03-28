@@ -1263,3 +1263,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-28 16:52:38] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2026-03-28 14:21:03] [TECH] Review: Security vulnerabilities in ML pipelines average 10 per production deployment
 - [2026-03-28 07:53:26] [TECH] Review: Security vulnerabilities in ML pipelines average 93 per production deployment
+- [2026-03-28 14:45:28] [TECH] Review: Security vulnerabilities in ML pipelines average 79 per production deployment
