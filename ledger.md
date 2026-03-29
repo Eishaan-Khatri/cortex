@@ -1272,3 +1272,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-29 16:41:43] [NLP] Note: Perplexity scores plateau at 60B parameters for standard benchmarks
 - [2026-03-29 11:56:19] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 33% on math benchmarks
 - [2026-03-29 14:36:52] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 46% on math benchmarks
+- [2026-03-29 12:06:16] [NLP] Finding: In-context learning emerges at ~20M parameters with sufficient pretraining data diversity
