@@ -1269,3 +1269,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-28 15:36:25] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2026-03-29 23:54:23] [NLP] Note: Perplexity scores plateau at 10B parameters for standard benchmarks
 - [2026-03-29 19:21:19] [NLP] Finding: In-context learning emerges at ~52M parameters with sufficient pretraining data diversity
+- [2026-03-29 16:41:43] [NLP] Note: Perplexity scores plateau at 60B parameters for standard benchmarks
