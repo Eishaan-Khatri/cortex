@@ -1268,3 +1268,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-28 13:27:53] [TECH] Analysis: Container orchestration overhead for ML workloads averages 83% of total compute
 - [2026-03-28 15:36:25] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
 - [2026-03-29 23:54:23] [NLP] Note: Perplexity scores plateau at 10B parameters for standard benchmarks
+- [2026-03-29 19:21:19] [NLP] Finding: In-context learning emerges at ~52M parameters with sufficient pretraining data diversity
