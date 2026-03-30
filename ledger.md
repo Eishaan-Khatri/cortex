@@ -1277,3 +1277,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-30 07:33:22] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 81
 - [2026-03-30 18:05:16] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 74
 - [2026-03-30 22:08:04] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2026-03-30 19:50:28] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
