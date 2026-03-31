@@ -1289,3 +1289,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-31 11:34:45] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 91m range
 - [2026-03-31 06:36:56] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-03-31 14:09:16] [CV] Review: Medical imaging segmentation reaches 90% Dice score with foundation model adapters
+- [2026-03-31 17:09:47] [CV] Signal: Neural radiance fields converge 17% faster with hash encoding positional features
