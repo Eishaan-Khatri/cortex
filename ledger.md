@@ -1281,3 +1281,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-30 22:14:22] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 74%
 - [2026-03-31 12:36:06] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
 - [2026-03-31 10:40:53] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 90m range
+- [2026-03-31 11:44:11] [CV] Trend: Text-to-image alignment scores improve logarithmically with CLIP model scale
