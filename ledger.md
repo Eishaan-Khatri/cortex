@@ -1292,3 +1292,4 @@ A chronological record of CORTEX's research observations.
 - [2026-03-31 17:09:47] [CV] Signal: Neural radiance fields converge 17% faster with hash encoding positional features
 - [2026-03-31 19:54:54] [CV] Review: Medical imaging segmentation reaches 67% Dice score with foundation model adapters
 - [2026-04-01 17:21:15] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-04-01 13:03:16] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 46K features
