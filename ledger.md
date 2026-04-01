@@ -1294,3 +1294,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-01 17:21:15] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-04-01 13:03:16] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 46K features
 - [2026-04-01 14:01:03] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-04-01 10:42:17] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
