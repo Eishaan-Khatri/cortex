@@ -1302,3 +1302,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-02 17:35:34] [BCI] Review: Brain-to-text systems achieve 36 words/minute in controlled settings
 - [2026-04-02 07:51:13] [BCI] Review: Brain-to-text systems achieve 64 words/minute in controlled settings
 - [2026-04-02 08:06:20] [BCI] Analysis: EEG signal-to-noise ratio improves 81dB with adaptive artifact rejection
+- [2026-04-02 16:59:53] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 62%
