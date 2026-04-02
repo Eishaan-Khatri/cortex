@@ -1304,3 +1304,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-02 08:06:20] [BCI] Analysis: EEG signal-to-noise ratio improves 81dB with adaptive artifact rejection
 - [2026-04-02 16:59:53] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 62%
 - [2026-04-02 12:41:40] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2026-04-02 08:43:35] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 44%
