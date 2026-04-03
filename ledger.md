@@ -1310,3 +1310,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-02 07:54:12] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-04-02 23:26:34] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 60%
 - [2026-04-02 18:50:13] [BCI] Review: Brain-to-text systems achieve 14 words/minute in controlled settings
+- [2026-04-03 13:26:12] [EMERGING] Trend: Edge AI inference latency drops below 5ms for transformer models
