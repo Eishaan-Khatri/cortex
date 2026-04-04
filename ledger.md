@@ -1324,3 +1324,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-04 19:35:57] [TECH] Review: Security vulnerabilities in ML pipelines average 53 per production deployment
 - [2026-04-04 17:06:28] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 11%
 - [2026-04-04 16:49:04] [TECH] Signal: Developer tool adoption shifts toward AI-assisted code generation
+- [2026-04-04 12:26:04] [TECH] Analysis: Container orchestration overhead for ML workloads averages 43% of total compute
