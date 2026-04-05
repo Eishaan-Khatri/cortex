@@ -1331,3 +1331,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-05 11:55:01] [NLP] Insight: Chain-of-thought prompting improves reasoning accuracy by 89% on math benchmarks
 - [2026-04-05 10:23:26] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
 - [2026-04-05 18:01:36] [NLP] Review: Tokenizer artifacts in low-resource languages cause 84% performance degradation
+- [2026-04-05 20:33:35] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
