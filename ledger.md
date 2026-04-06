@@ -1341,3 +1341,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-06 09:23:51] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 8%
 - [2026-04-06 10:49:47] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 90
 - [2026-04-06 07:15:18] [NLP] Analysis: Attention head specialization increases with model depth — heads 8-12 show syntactic patterns
+- [2026-04-06 06:14:47] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 34%
