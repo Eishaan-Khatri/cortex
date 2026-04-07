@@ -1347,3 +1347,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-07 23:38:31] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-04-07 22:27:38] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-04-07 07:56:48] [CV] Review: Medical imaging segmentation reaches 92% Dice score with foundation model adapters
+- [2026-04-07 19:58:14] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 73m range
