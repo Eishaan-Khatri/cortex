@@ -1350,3 +1350,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-07 19:58:14] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 73m range
 - [2026-04-08 06:16:55] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
 - [2026-04-08 11:06:11] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-04-08 15:35:36] [XAI] Analysis: Saliency maps disagree across methods for 62% of adversarial examples
