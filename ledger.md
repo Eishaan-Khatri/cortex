@@ -1358,3 +1358,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-09 15:51:20] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 2%
 - [2026-04-09 10:29:46] [BCI] Review: Brain-to-text systems achieve 77 words/minute in controlled settings
 - [2026-04-09 06:54:19] [BCI] Observation: Motor imagery classification accuracy reaches 69% with subject-specific calibration
+- [2026-04-09 22:48:30] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 12% correlation
