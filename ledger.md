@@ -1354,3 +1354,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-08 21:15:41] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-04-08 17:29:14] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 89% of transformer layers
 - [2026-04-09 13:44:46] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 94%
+- [2026-04-09 13:57:50] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
