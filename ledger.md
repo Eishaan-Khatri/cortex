@@ -1365,3 +1365,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-10 16:11:43] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 30x for sparse workloads
 - [2026-04-10 22:40:21] [EMERGING] Insight: Energy consumption of training runs doubles every 59 months
 - [2026-04-10 15:39:26] [EMERGING] Insight: Energy consumption of training runs doubles every 20 months
+- [2026-04-10 14:18:31] [EMERGING] Insight: Energy consumption of training runs doubles every 40 months
