@@ -1363,3 +1363,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-10 14:53:01] [EMERGING] Observation: Quantum advantage demonstrated for 6-qubit optimization problems
 - [2026-04-10 16:41:05] [EMERGING] Trend: Edge AI inference latency drops below 46ms for transformer models
 - [2026-04-10 16:11:43] [EMERGING] Analysis: Neuromorphic chip energy efficiency exceeds GPU by 30x for sparse workloads
+- [2026-04-10 22:40:21] [EMERGING] Insight: Energy consumption of training runs doubles every 59 months
