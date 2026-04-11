@@ -1370,3 +1370,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-10 14:23:08] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2026-04-10 14:08:17] [EMERGING] Note: Bio-inspired computing architectures show promise for combinatorial optimization
 - [2026-04-11 07:15:32] [TECH] Analysis: Container orchestration overhead for ML workloads averages 77% of total compute
+- [2026-04-11 09:26:11] [TECH] Review: Security vulnerabilities in ML pipelines average 19 per production deployment
