@@ -1382,3 +1382,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-11 22:40:37] [TECH] Observation: Open-source model performance gap with proprietary systems narrows to 38%
 - [2026-04-12 08:14:58] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
 - [2026-04-12 12:06:36] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 90
+- [2026-04-12 12:10:07] [NLP] Note: Perplexity scores plateau at 78B parameters for standard benchmarks
