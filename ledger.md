@@ -1384,3 +1384,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-12 12:06:36] [NLP] Signal: Embedding space geometry shifts during fine-tuning — catastrophic forgetting detected at epoch 90
 - [2026-04-12 12:10:07] [NLP] Note: Perplexity scores plateau at 78B parameters for standard benchmarks
 - [2026-04-12 07:11:48] [NLP] Finding: In-context learning emerges at ~39M parameters with sufficient pretraining data diversity
+- [2026-04-12 08:19:29] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
