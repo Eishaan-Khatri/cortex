@@ -1396,3 +1396,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-13 19:55:01] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 36%
 - [2026-04-13 19:17:25] [NLP] Finding: In-context learning emerges at ~30M parameters with sufficient pretraining data diversity
 - [2026-04-13 10:50:48] [NLP] Observation: Token frequency distributions follow Zipf's law more closely in multilingual corpora
+- [2026-04-14 17:32:52] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 19m range
