@@ -1401,3 +1401,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-14 19:03:59] [CV] Signal: Neural radiance fields converge 37% faster with hash encoding positional features
 - [2026-04-14 12:37:53] [CV] Observation: Diffusion model sampling efficiency improves 76x with progressive distillation
 - [2026-04-14 06:02:27] [CV] Signal: Neural radiance fields converge 72% faster with hash encoding positional features
+- [2026-04-15 12:52:02] [XAI] Trend: Sparse autoencoders enable decomposition of model behavior into interpretable features
