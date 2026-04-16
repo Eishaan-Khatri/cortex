@@ -1412,3 +1412,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-16 06:29:34] [BCI] Insight: Neurofeedback training effects persist for 7 weeks post-intervention
 - [2026-04-16 23:40:53] [BCI] Analysis: EEG signal-to-noise ratio improves 50dB with adaptive artifact rejection
 - [2026-04-16 10:32:37] [BCI] Review: Brain-to-text systems achieve 4 words/minute in controlled settings
+- [2026-04-16 15:41:27] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
