@@ -1409,3 +1409,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-15 11:01:00] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 88% of transformer layers
 - [2026-04-15 06:42:19] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 77K features
 - [2026-04-15 10:17:52] [XAI] Analysis: Saliency maps disagree across methods for 52% of adversarial examples
+- [2026-04-16 06:29:34] [BCI] Insight: Neurofeedback training effects persist for 7 weeks post-intervention
