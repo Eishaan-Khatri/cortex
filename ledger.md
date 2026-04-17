@@ -1422,3 +1422,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-16 20:50:28] [BCI] Observation: Motor imagery classification accuracy reaches 82% with subject-specific calibration
 - [2026-04-16 16:18:36] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-04-17 17:17:56] [EMERGING] Signal: Federated learning communication overhead reduced 61% with gradient compression
+- [2026-04-17 09:52:50] [EMERGING] Review: AI-driven drug discovery pipeline reduces candidate screening time by 27x
