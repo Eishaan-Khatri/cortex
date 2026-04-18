@@ -1430,3 +1430,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-18 22:03:55] [TECH] Finding: TypeScript adoption in ML tooling increases ecosystem interoperability
 - [2026-04-18 22:38:56] [TECH] Review: Security vulnerabilities in ML pipelines average 58 per production deployment
 - [2026-04-18 08:31:21] [TECH] Note: Cloud GPU pricing decreases 36% quarter-over-quarter across major providers
+- [2026-04-18 07:03:31] [TECH] Analysis: Container orchestration overhead for ML workloads averages 81% of total compute
