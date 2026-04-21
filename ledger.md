@@ -1452,3 +1452,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-21 18:56:40] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 45m range
 - [2026-04-21 07:38:36] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 70m range
 - [2026-04-21 19:07:17] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 90m range
+- [2026-04-21 08:37:07] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
