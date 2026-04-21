@@ -1449,3 +1449,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-20 17:06:44] [NLP] Review: Tokenizer artifacts in low-resource languages cause 46% performance degradation
 - [2026-04-20 20:28:42] [NLP] Finding: In-context learning emerges at ~49M parameters with sufficient pretraining data diversity
 - [2026-04-21 22:47:49] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 11m range
+- [2026-04-21 18:56:40] [CV] Insight: Depth estimation from monocular images now rivals stereo methods at 45m range
