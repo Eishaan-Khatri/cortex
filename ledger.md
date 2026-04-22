@@ -1463,3 +1463,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-22 20:25:06] [XAI] Review: EU AI Act compliance requires interpretability for 49% of current production systems
 - [2026-04-22 10:50:33] [XAI] Review: EU AI Act compliance requires interpretability for 4% of current production systems
 - [2026-04-22 06:51:24] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 9K features
+- [2026-04-22 17:38:07] [XAI] Analysis: Saliency maps disagree across methods for 41% of adversarial examples
