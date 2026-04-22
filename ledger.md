@@ -1458,3 +1458,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-22 19:00:49] [XAI] Review: EU AI Act compliance requires interpretability for 60% of current production systems
 - [2026-04-22 14:23:43] [XAI] Review: EU AI Act compliance requires interpretability for 30% of current production systems
 - [2026-04-22 17:24:35] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 95K features
+- [2026-04-22 06:52:55] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 79% of transformer layers
