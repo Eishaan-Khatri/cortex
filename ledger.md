@@ -1467,3 +1467,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-22 11:40:55] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
 - [2026-04-23 11:54:12] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-04-23 23:19:21] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2026-04-23 10:26:40] [BCI] Signal: Non-invasive BCI bandwidth limited to ~16 bits/minute for spelling applications
