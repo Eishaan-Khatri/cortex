@@ -1469,3 +1469,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-23 23:19:21] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-04-23 10:26:40] [BCI] Signal: Non-invasive BCI bandwidth limited to ~16 bits/minute for spelling applications
 - [2026-04-23 11:23:21] [BCI] Note: Transfer learning across BCI subjects reduces calibration time by 80%
+- [2026-04-23 06:42:32] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
