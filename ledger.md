@@ -1472,3 +1472,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-23 06:42:32] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
 - [2026-04-23 19:02:28] [BCI] Trend: Dry electrode technology closing gap with wet electrodes — 54% correlation
 - [2026-04-23 18:18:38] [BCI] Finding: Neural spike sorting accuracy improves with contrastive learning approaches
+- [2026-04-23 22:38:48] [BCI] Analysis: EEG signal-to-noise ratio improves 42dB with adaptive artifact rejection
