@@ -1502,3 +1502,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-28 15:37:40] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
 - [2026-04-28 14:31:09] [CV] Analysis: Vision transformer patch size inversely correlates with fine-grained recognition accuracy
 - [2026-04-28 21:08:06] [CV] Review: Medical imaging segmentation reaches 67% Dice score with foundation model adapters
+- [2026-04-28 10:48:07] [CV] Review: Medical imaging segmentation reaches 93% Dice score with foundation model adapters
