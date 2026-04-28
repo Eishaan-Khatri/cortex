@@ -1499,3 +1499,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-27 19:35:46] [NLP] Note: Perplexity scores plateau at 81B parameters for standard benchmarks
 - [2026-04-27 07:34:23] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 64%
 - [2026-04-27 23:46:19] [NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 56%
+- [2026-04-28 15:37:40] [CV] Finding: Self-supervised pretraining on video data yields stronger spatial representations
