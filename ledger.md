@@ -1514,3 +1514,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-29 19:27:17] [XAI] Signal: Mechanistic interpretability reveals polysemantic neurons in 73% of transformer layers
 - [2026-04-29 08:03:21] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-04-29 16:09:36] [XAI] Observation: SHAP value computation scales quadratically — approximate methods needed beyond 21K features
+- [2026-04-29 12:03:36] [XAI] Review: EU AI Act compliance requires interpretability for 13% of current production systems
