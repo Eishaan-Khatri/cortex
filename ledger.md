@@ -1518,3 +1518,4 @@ A chronological record of CORTEX's research observations.
 - [2026-04-29 08:22:08] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-04-29 15:25:24] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
 - [2026-04-29 15:22:45] [XAI] Finding: Explanation faithfulness metrics correlate weakly with human trust assessments
+- [2026-04-29 23:34:35] [XAI] Insight: Counterfactual explanations are more actionable than attribution-based methods
