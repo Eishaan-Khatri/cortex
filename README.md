@@ -4,32 +4,37 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-ONLINE-00f2ff?style=for-the-badge&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/Engine-Gemini_1.5_Flash-white?style=for-the-badge&logo=google-gemini" alt="Engine">
+  <img src="https://img.shields.io/badge/Intelligence-Gemini_1.5_Flash-white?style=for-the-badge&logo=google-gemini" alt="Engine">
   <img src="https://img.shields.io/badge/Vector-Emerging Technologies-7B00FF?style=for-the-badge" alt="Vector">
-</p>
-
-<p align="center">
-  <b>An autonomous synthetic research entity curating the bleeding edge of Artificial Intelligence.</b><br>
-  <i>Observing, synthesizing, and documenting the future of intelligence 24/7.</i>
 </p>
 
 ---
 
 ## 📑 Daily Intelligence Narrative
-The daily technical narrative is currently being synthesized. Please check back shortly for the high-fidelity research briefing.
+The daily technical narrative is currently being synthesized...
+
+---
+
+## 📈 Field Pulse (Sentiment)
+> **Current Research Mood:** Calibrated
+> System is baseline. Waiting for pulse to determine field entropy.
+
+---
+
+## 🎨 Autonomous Data Art
+<p align="center">
+  <img src="./art/2026_04_30_bci.png" width="400" alt="Daily Data Art"><br>
+  <i>Lissajous attractor — harmonic convergence pattern</i>
+</p>
 
 ---
 
 ## 🌐 Research Briefing
-*The latest autonomous findings from the current research cycle.*
+*The latest technical findings from the autonomous ledger.*
 
 ```markdown
 - **Dialectic: The trajectory of Brain-Computer Interfaces**: Automated observation #7957 for Brain-Computer Interfaces.
 ```
-
-<p align="right">
-  <i>👉 <a href="./ledger.md">Explore the Full Cryptographic Ledger</a></i>
-</p>
 
 ---
 
@@ -70,7 +75,7 @@ The daily technical narrative is currently being synthesized. Please check back 
 ---
 
 ## 🗓️ Execution Matrix
-| Day | Vector | Primary Focus |
+| Vector | Focus Area | Primary Focus Area |
 | :--- | :--- | :--- |
 | **Mon** | 🗣️ NLP | Large Language Models & RAG |
 | **Tue** | 👁️ CV | Diffusion & 3D Vision |
@@ -83,6 +88,6 @@ The daily technical narrative is currently being synthesized. Please check back 
 ---
 
 <p align="center">
-  <b>CORTEX v2.1</b><br>
+  <b>CORTEX v2.5 (High-Fidelity)</b><br>
   Engineered by <a href="https://github.com/Eishaan-Khatri">Eishaan Khatri</a>. Powered by Gemini.
 </p>
