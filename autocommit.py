@@ -28,7 +28,7 @@ from core.ai_engine import GeminiEngine
 from core.memory import Memory
 from core.git_ops import commit_file, commit_files, commit_all, ensure_branch, switch_branch
 from core.utils import (
-    append_to_file, write_file, sanitize_commit_message, today_str, now_str,
+    append_to_file, prepend_to_markdown, write_file, sanitize_commit_message, today_str, now_str,
 )
 
 from generators.daily_insights import generate_daily_insights
@@ -127,7 +127,7 @@ def main():
             entry += f"  > 📄 arXiv:{arxiv_id}\n"
         entry += "\n"
 
-        append_to_file(LEDGER_FILE, entry)
+        prepend_to_markdown(LEDGER_FILE, entry)
         commit_file(LEDGER_FILE, msg)
 
         all_keywords.extend(keywords)
@@ -160,7 +160,7 @@ def main():
                 if phase == "thesis":
                     entry = f"\n### Dialectic: {debate_topic}\n\n" + entry
 
-                append_to_file(LEDGER_FILE, entry)
+                prepend_to_markdown(LEDGER_FILE, entry)
                 commit_file(LEDGER_FILE, msg)
                 all_commit_messages.append(msg)
                 all_content_text += f"{text} "
@@ -262,7 +262,7 @@ def main():
                 eli5_text += f"- **Simple version:** {item.get('eli5', '')}\n"
                 eli5_text += f"  - *Metaphor: {item.get('metaphor', '')}*\n\n"
 
-            append_to_file("ELI5.md", eli5_text)
+            prepend_to_markdown("ELI5.md", eli5_text)
             msg = sanitize_commit_message(f"[ELI5] Simplified {topic['key']} insights for everyone")
             commit_file("ELI5.md", msg)
             all_commit_messages.append(msg)
@@ -292,7 +292,7 @@ def main():
 def _minimal_sunday_commits(config, persona_prompt):
     """Generate a few minimal commits on Sunday to keep the graph green."""
     entry = f"- [{now_str()}] [SYNTHESIS] Preparing weekly synchronization...\n"
-    append_to_file(LEDGER_FILE, entry)
+    prepend_to_markdown(LEDGER_FILE, entry)
     commit_file(LEDGER_FILE, "[SYNTHESIS] Weekly sync initiated")
 
     # Generate art for Sunday too

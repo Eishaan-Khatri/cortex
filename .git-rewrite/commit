@@ -1,0 +1,6 @@
+tree 9b3d306f3abc884c8fbacb8353c10786454aaedb
+parent cb5da99a654728e2365cd60a61e12fd6918cad30
+author Eishaan Khatri <eishaankhatri@example.com> 1763306219 +0530
+committer Eishaan Khatri <eishaankhatri@example.com> 1763306219 +0530
+
+[NLP] Trend: Retrieval-augmented approaches reduce hallucination rate by approximately 66%

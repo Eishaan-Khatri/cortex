@@ -35,6 +35,27 @@ def append_to_file(filepath, content):
         f.write(content)
 
 
+def prepend_to_markdown(filepath, content, marker="---"):
+    """
+    Insert content into a markdown file after the first occurrence of the marker.
+    If marker not found, appends to the end.
+    Ensures 'Latest at Top' (descending order).
+    """
+    if not os.path.exists(filepath):
+        write_file(filepath, content)
+        return
+
+    old_content = read_file(filepath)
+    if marker in old_content:
+        parts = old_content.split(marker, 1)
+        new_content = parts[0] + marker + "\n\n" + content + parts[1]
+    else:
+        new_content = old_content + "\n" + content
+
+    write_file(filepath, new_content)
+
+
+
 def read_file(filepath):
     """Read a file's contents, return empty string if not found."""
     try:

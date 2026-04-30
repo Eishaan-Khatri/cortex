@@ -14,13 +14,15 @@ GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta"
 
 
 class GeminiEngine:
-    """Wrapper around the Gemini REST API."""
+    """Wrapper around the Gemini REST API with rate-limit handling."""
 
     def __init__(self, api_key=None, model=None, use_search=True, temperature=0.9):
         self.api_key = api_key or os.environ.get("GEMINI_API_KEY", "")
         self.model = model or "gemini-2.0-flash"
         self.use_search = use_search
         self.temperature = temperature
+        self.last_request_time = 0
+        self.min_interval = 30  # Mandatory 30s gap between calls for free-tier
 
         if not self.api_key:
             raise ValueError(
@@ -30,17 +32,17 @@ class GeminiEngine:
 
     def generate(self, prompt, system_prompt=None, json_mode=False, use_search=None):
         """
-        Generate content using Gemini.
-
-        Args:
-            prompt: The user prompt.
-            system_prompt: Optional system instruction.
-            json_mode: If True, request JSON output.
-            use_search: Override search grounding setting.
-
-        Returns:
-            The generated text (str), or parsed JSON (dict) if json_mode is True.
+        Generate content using Gemini with rate-limit safety.
         """
+        # ══════════════════════════════════════════════════
+        # 1. RATE LIMIT COOLDOWN
+        # ══════════════════════════════════════════════════
+        elapsed = time.time() - self.last_request_time
+        if elapsed < self.min_interval:
+            wait = self.min_interval - elapsed
+            print(f"  [CORTEX] Pacing request (cooldown)... {wait:.1f}s")
+            time.sleep(wait)
+
         url = f"{GEMINI_API_BASE}/models/{self.model}:generateContent"
         params = {"key": self.api_key}
 
@@ -68,19 +70,26 @@ class GeminiEngine:
         if search_enabled:
             body["tools"] = [{"googleSearch": {}}]
 
-        # Make request with retry
-        for attempt in range(3):
+        # ══════════════════════════════════════════════════
+        # 2. REQUEST WITH RETRY
+        # ══════════════════════════════════════════════════
+        for attempt in range(5):  # Increased retries
             try:
-                resp = requests.post(url, params=params, json=body, timeout=60)
+                self.last_request_time = time.time()
+                resp = requests.post(url, params=params, json=body, timeout=90)
 
                 if resp.status_code == 429:
-                    # Rate limited — wait and retry
-                    wait_time = (attempt + 1) * 15
-                    print(f"  [CORTEX] Rate limited. Waiting {wait_time}s...")
+                    # Exponential backoff on rate limit
+                    wait_time = (attempt + 1) * 30
+                    print(f"  [CORTEX] 429 Rate Limited. Waiting {wait_time}s (attempt {attempt+1}/5)...")
                     time.sleep(wait_time)
                     continue
 
-                resp.raise_for_status()
+                if resp.status_code != 200:
+                    print(f"  [CORTEX] API Error {resp.status_code}: {resp.text[:200]}")
+                    time.sleep(10)
+                    continue
+
                 data = resp.json()
 
                 # Extract text from response
@@ -92,11 +101,8 @@ class GeminiEngine:
                 return text
 
             except requests.exceptions.RequestException as e:
-                print(f"  [CORTEX] API error (attempt {attempt + 1}/3): {e}")
-                if attempt < 2:
-                    time.sleep(5)
-                else:
-                    raise
+                print(f"  [CORTEX] Connection error (attempt {attempt + 1}/5): {e}")
+                time.sleep(15)
 
         return None
 

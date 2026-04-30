@@ -127,76 +127,102 @@ def _update_readme(config, sentiment, memory):
     except Exception:
         pass
 
+    # Get top 5 ledger entries for the live feed
+    ledger_snippet = "No entries yet."
+    if os.path.exists("ledger.md"):
+        try:
+            with open("ledger.md", "r", encoding="utf-8") as f:
+                lines = f.readlines()
+                # Find the marker and take next 5 non-empty lines
+                marker_idx = 0
+                for i, line in enumerate(lines):
+                    if line.strip() == "---":
+                        marker_idx = i
+                        break
+                
+                entries = []
+                for line in lines[marker_idx+1:]:
+                    line = line.strip()
+                    if line and line.startswith("- ["):
+                        entries.append(line)
+                    if len(entries) >= 5:
+                        break
+                if entries:
+                    ledger_snippet = "\n".join(entries)
+        except Exception:
+            pass
+
     readme = f"""<div align="center">
 
-# 🧠 CORTEX
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=200&section=header&text=CORTEX&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Autonomous%20AI%20Research%20Entity&descAlignY=55&descSize=20" width="100%" />
 
-**An autonomous AI research entity.**
+<p align="center">
+  <i>Curating the bleeding edge of Artificial Intelligence, completely autonomously.</i>
+</p>
 
-*Curating daily insights across NLP, Computer Vision, Explainable AI, Brain-Computer Interfaces, and Emerging Technologies.*
-
-![Days Active](https://img.shields.io/badge/Days_Active-{days_active}-blue?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Research_Commits-{total_commits}-green?style=for-the-badge)
-![Papers](https://img.shields.io/badge/Papers_Referenced-{total_papers}-orange?style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/Eishaan-Khatri/cortex"><img src="https://img.shields.io/badge/Status-Autonomous-00ffcc?style=for-the-badge&logo=probot" alt="Status" /></a>
+  <a href="./ledger.md"><img src="https://img.shields.io/badge/Days_Active-{days_active}-00a8ff?style=for-the-badge&logo=git" alt="Days Active" /></a>
+  <a href="./ledger.md"><img src="https://img.shields.io/badge/Research_Commits-{total_commits}-ff9f43?style=for-the-badge&logo=github" alt="Commits" /></a>
+  <a href="./papers"><img src="https://img.shields.io/badge/Papers_Referenced-{total_papers}-ff4757?style=for-the-badge&logo=arxiv" alt="Papers" /></a>
+</p>
 
 ---
 
-### 📡 Current Focus: **{today_topic['full_name']}**
-
+### 📡 Current Objective: **{today_topic['full_name']}**
 {bounty_line}
 
 </div>
 
-## Research Pulse
+## 🌐 Live Research Feed
+> **CORTEX** continuously updates the [Ledger](./ledger.md) with daily research observations, dialectical debates, and state-of-the-art developments.
+
+```markdown
+{ledger_snippet}
+```
+*👉 [View the full cryptographic ledger](./ledger.md)*
+
+## 📈 Field Pulse (Sentiment)
+> Autonomous assessment of current AI research domains based on recent publications.
 
 {sentiment_block}
 
-## 📅 Weekly Schedule
+## 🗓️ Weekly Execution Matrix
+CORTEX follows a strict chronological execution path to ensure diverse intelligence gathering.
 
-| Day | Domain | Focus |
-|:----|:-------|:------|
-| Monday | 🗣️ NLP | Large Language Models, Tokenization, RAG |
-| Tuesday | 👁️ CV | Diffusion Models, Video Synthesis, 3D Vision |
-| Wednesday | 🔍 XAI | Interpretability, Fairness, Ethical AI |
-| Thursday | 🧠 BCI | Neural Decoding, Brain-to-Text, Neuroprosthetics |
-| Friday | 🚀 Emerging | Quantum ML, Neuromorphic, Robotics |
-| Saturday | ⚙️ General | Open Source, DevTools, Industry Trends |
-| Sunday | 📊 Synthesis | Weekly blog, Paper deep dive, Podcast |
+| Vector | Designation | Primary Focus Area |
+|:---------|:------------|:----------------------|
+| **`Monday`** | 🗣️ NLP | Large Language Models, Tokenization, RAG |
+| **`Tuesday`** | 👁️ CV | Diffusion Models, Video Synthesis, 3D Vision |
+| **`Wednesday`** | 🔍 XAI | Interpretability, Fairness, Ethical AI |
+| **`Thursday`** | 🧠 BCI | Neural Decoding, Brain-to-Text, Neuroprosthetics |
+| **`Friday`** | 🚀 Emerging | Quantum ML, Neuromorphic, Robotics |
+| **`Saturday`** | ⚙️ Systems | Open Source, DevTools, Industry Trends |
+| **`Sunday`** | 📊 Synthesis| Global synchronization, paper deep-dives, podcast |
 
-## 📂 Repository Structure
 
-| Directory | Contents |
-|:----------|:---------|
-| [`ledger.md`](./ledger.md) | Daily research log |
-| [`blogs/`](./blogs/) | Weekly synthesis reports |
-| [`papers/`](./papers/) | Paper deep dives with code |
-| [`snippets/`](./snippets/) | Daily code fragments |
-| [`art/`](./art/) | Generative data visualizations |
-| [`audio/`](./audio/) | Weekly podcast episodes |
-| [`GLOSSARY.md`](./GLOSSARY.md) | Auto-built technical glossary |
-| [`SOTA.md`](./SOTA.md) | State-of-the-art tracker |
-| [`PREDICTIONS.md`](./PREDICTIONS.md) | AI forecasting log |
-| [`BOUNTIES.md`](./BOUNTIES.md) | Research bounty board |
-| [`RETRACTIONS_AND_FAILURES.md`](./RETRACTIONS_AND_FAILURES.md) | Hall of Failures |
-| [`ELI5.md`](./ELI5.md) | Simple explanations |
+## 🗄️ Core Databanks
+Navigate CORTEX's autonomous memory structures.
 
-## 🔧 Fork & Customize
+| Databank | Description |
+|:---------|:------------|
+| 📖 **[`GLOSSARY.md`](./GLOSSARY.md)** | Auto-compiling dictionary of newly discovered technical terms |
+| 🏆 **[`SOTA.md`](./SOTA.md)** | Dynamic State-of-the-Art benchmark tracker |
+| 🔮 **[`PREDICTIONS.md`](./PREDICTIONS.md)** | Verifiable, time-locked forecasts on AI developments |
+| 🎯 **[`BOUNTIES.md`](./BOUNTIES.md)** | Autonomous research bounties claimed by the agent |
+| ⚠️ **[`RETRACTIONS_AND_FAILURES.md`](./RETRACTIONS_AND_FAILURES.md)** | Tracking dead-ends and withdrawn papers |
+| 🧒 **[`ELI5.md`](./ELI5.md)** | Complex findings digested for non-technical observation |
 
-1. Fork this repository
-2. Add your `GEMINI_API_KEY` to GitHub Secrets
-3. Edit `config.yml` to set your research domains
-4. The GitHub Action handles the rest
-
-## How It Works
-
-CORTEX uses **Gemini with Google Search grounding** to find and analyze the latest
-research every day. Each insight is committed individually, creating a living,
-version-controlled research journal.
+## 🛠️ Replicate CORTEX
+1. **Fork** this repository.
+2. Inject your `GEMINI_API_KEY` into GitHub Secrets.
+3. Configure target vectors in `config.yml`.
+4. The GitHub Actions Chron-daemon will automate the rest.
 
 <details>
-<summary>Architecture</summary>
+<summary><b>View System Architecture</b></summary>
 
-```
+```text
 ┌─────────────────────────────────────────────┐
 │             GitHub Actions (Cron)            │
 │  ┌────────┐  ┌────────┐  ┌───────────────┐  │
@@ -208,8 +234,8 @@ version-controlled research journal.
 │  ┌─────────────────────────────────────────┐ │
 │  │          CORTEX Core Engine             │ │
 │  │  ┌──────────┐  ┌──────────┐  ┌───────┐ │ │
-│  │  │ AI Engine│  │  Memory  │  │Git Ops│ │ │
-│  │  │ (Gemini) │  │ (14-day) │  │       │ │ │
+│  │  │ Gemini 2 │  │  Memory  │  │Git Ops│ │ │
+│  │  │ + Search │  │ (14-day) │  │       │ │ │
 │  │  └──────────┘  └──────────┘  └───────┘ │ │
 │  └─────────────────────────────────────────┘ │
 │      │                                       │
@@ -222,13 +248,12 @@ version-controlled research journal.
 │  └─────────────────────────────────────────┘ │
 └─────────────────────────────────────────────┘
 ```
-
 </details>
 
 ---
-
-*CORTEX is an experiment in autonomous AI research curation.
-Built by [Eishaan Khatri](https://github.com/Eishaan-Khatri).*
+<div align="center">
+<i>Engineered by <a href="https://github.com/Eishaan-Khatri">Eishaan Khatri</a>. Powered by Gemini.</i>
+</div>
 """
 
     from core.utils import write_file

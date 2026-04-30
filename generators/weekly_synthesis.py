@@ -39,7 +39,7 @@ def generate_weekly_synthesis(ai_engine, persona_prompt, memory):
 Here is a summary of this week's research coverage:
 {week_context[:4000]}
 
-Key terms this week: {', '.join(set(all_keywords)[:30])}
+Key terms this week: {', '.join(list(set(all_keywords))[:30])}
 
 Create a structured blog post with:
 1. "title": An engaging title for the week (e.g., "Week 18: The Attention Wars Intensify")

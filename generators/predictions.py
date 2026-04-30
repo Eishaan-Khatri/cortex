@@ -167,9 +167,13 @@ def _regenerate_predictions_md(all_predictions):
     """Regenerate the PREDICTIONS.md file."""
     content = PREDICTIONS_HEADER
 
+    # Sort by ID descending (latest at top)
+    all_predictions.sort(key=lambda x: x.get("id", ""), reverse=True)
+
     # Group by status
     pending = [p for p in all_predictions if p.get("status") == "pending"]
     scored = [p for p in all_predictions if p.get("status") != "pending"]
+
 
     if pending:
         content += "## ⏳ Active Predictions\n\n"

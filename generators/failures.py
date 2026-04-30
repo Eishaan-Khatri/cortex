@@ -80,7 +80,9 @@ Be genuine — only report REAL failures, not hypothetical ones."""
         entry += f"{failure}\n\n"
         entry += f"*Source: {source}*\n\n---\n\n"
 
-        append_to_file(FAILURES_FILE, entry)
+        from core.utils import prepend_to_markdown
+        prepend_to_markdown(FAILURES_FILE, entry)
+
 
     if failures:
         print(f"  [FAILURES] Logged {len(failures)} entries")

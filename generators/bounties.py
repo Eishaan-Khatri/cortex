@@ -164,8 +164,12 @@ def _regenerate_bounties_md(all_bounties):
     """Regenerate BOUNTIES.md."""
     content = BOUNTIES_HEADER
 
+    # Sort by ID descending (latest at top)
+    all_bounties.sort(key=lambda x: x.get("id", ""), reverse=True)
+
     open_b = [b for b in all_bounties if b.get("status") == "open"]
     claimed_b = [b for b in all_bounties if b.get("status") == "claimed"]
+
 
     if open_b:
         content += "## 🔓 Open Bounties\n\n"

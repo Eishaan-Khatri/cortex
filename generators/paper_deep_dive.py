@@ -29,7 +29,7 @@ def generate_paper_deep_dive(ai_engine, persona_prompt, memory):
 and create a comprehensive deep dive.
 
 Recent paper references: {', '.join(arxiv_ids[:10]) if arxiv_ids else 'None tracked'}
-Key topics this week: {', '.join(set(all_keywords)[:20])}
+Key topics this week: {', '.join(list(set(all_keywords))[:20])}
 
 If no specific papers were tracked, select a genuinely important recent paper
 from NLP, CV, XAI, or BCI published in the last 7-14 days.

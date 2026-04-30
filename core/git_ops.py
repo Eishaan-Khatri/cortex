@@ -33,6 +33,13 @@ def run_git(args, cwd=None):
 
 def commit_file(filepath, message, cwd=None):
     """Stage and commit a single file."""
+    # Only attempt to commit if the file actually exists
+    root = cwd if cwd else os.path.dirname(os.path.dirname(__file__))
+    full_path = os.path.join(root, filepath)
+    
+    if not os.path.exists(full_path):
+        return False
+
     run_git(["add", filepath], cwd=cwd)
     success, _ = run_git(["commit", "-m", message], cwd=cwd)
     if success:
@@ -42,12 +49,23 @@ def commit_file(filepath, message, cwd=None):
 
 def commit_files(filepaths, message, cwd=None):
     """Stage and commit multiple files."""
+    root = cwd if cwd else os.path.dirname(os.path.dirname(__file__))
+    staged_any = False
+    
     for fp in filepaths:
-        run_git(["add", fp], cwd=cwd)
+        full_path = os.path.join(root, fp)
+        if os.path.exists(full_path):
+            run_git(["add", fp], cwd=cwd)
+            staged_any = True
+    
+    if not staged_any:
+        return False
+
     success, _ = run_git(["commit", "-m", message], cwd=cwd)
     if success:
         print(f"  [COMMIT] {message[:80]}")
     return success
+
 
 
 def commit_all(message, cwd=None):
