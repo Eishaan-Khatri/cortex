@@ -1,6 +1,9 @@
 name: "CORTEX — Daily Research Pulse"
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '30 18 * * *'  # 00:00 IST (UTC+5:30)
   workflow_dispatch:  # Manual trigger
