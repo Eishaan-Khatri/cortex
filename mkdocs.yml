@@ -8,12 +8,22 @@ repo_name: Eishaan-Khatri/cortex
 theme:
   name: material
   palette:
-    - scheme: slate
+    # Palette for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: black
-      accent: teal
+      accent: cyan
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+    # Palette for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
   features:
     - navigation.instant
     - navigation.tracking

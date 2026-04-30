@@ -1,153 +1,157 @@
+/* 
+   CORTEX — Authentic Research Interface v2.0
+   Design Philosophy: High-Contrast, Deep Space, Intelligence-First
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;800&family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;600&display=swap');
+
 :root {
   --md-primary-fg-color: #000000;
   --md-accent-fg-color: #00f2ff;
-  --md-bg-color: #050505;
+  --md-bg-color: #020408;
   
-  /* CORTEX Premium Palette */
-  --glow-cyan: rgba(0, 242, 255, 0.5);
-  --glass-bg: rgba(10, 10, 10, 0.7);
-  --border-glass: rgba(255, 255, 255, 0.1);
+  /* CORTEX Signature Palette */
+  --neon-glow: 0 0 15px rgba(0, 242, 255, 0.4);
+  --deep-blue: #050a14;
+  --border-pulse: rgba(0, 242, 255, 0.2);
+  --text-dim: #94a3b8;
 }
 
-/* Base Body Styles */
+/* AUTHENTIC MESH BACKGROUND */
 body {
   background-color: var(--md-bg-color) !important;
   background-image: 
-    radial-gradient(circle at 0% 0%, rgba(0, 242, 255, 0.03) 0%, transparent 50%),
-    radial-gradient(circle at 100% 100%, rgba(123, 0, 255, 0.03) 0%, transparent 50%) !important;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  -webkit-font-smoothing: antialiased;
+    radial-gradient(at 0% 0%, rgba(0, 242, 255, 0.05) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(123, 0, 255, 0.05) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(0, 242, 255, 0.05) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(123, 0, 255, 0.05) 0px, transparent 50%) !important;
+  background-attachment: fixed;
+  font-family: 'Inter', sans-serif !important;
+  color: #e2e8f0 !important;
 }
 
-/* Glassmorphism Header */
+/* TYPOGRAPHY OVERHAUL */
+h1, h2, h3, h4, .md-header__topic {
+  font-family: 'Outfit', sans-serif !important;
+  letter-spacing: -0.03em !important;
+  font-weight: 800 !important;
+}
+
+h1 { font-size: 2.5rem !important; margin-bottom: 1rem !important; }
+
+/* HEADER & TABS: FROSTED AUTHENTICITY */
 .md-header {
-  background: var(--glass-bg) !important;
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border-bottom: 1px solid var(--border-glass) !important;
+  background: rgba(2, 4, 8, 0.8) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
 }
 
-.md-header__topic {
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  color: var(--md-accent-fg-color) !important;
+.md-header__button.md-logo img {
+  filter: drop-shadow(var(--neon-glow));
 }
 
-/* Premium Navigation Tabs */
 .md-tabs {
   background: transparent !important;
-  border-bottom: 1px solid var(--border-glass);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-.md-tabs__link {
-  font-weight: 500;
-  opacity: 0.6;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.md-tabs__link--active, .md-tabs__link:hover {
-  opacity: 1;
+.md-tabs__link--active {
   color: var(--md-accent-fg-color) !important;
+  text-shadow: var(--neon-glow);
 }
 
-/* Glassmorphism Sidebars */
-.md-sidebar {
-  background: transparent !important;
-}
-
-.md-nav__link {
-  border-radius: 6px;
-  margin: 2px 0;
-  transition: background 0.2s ease;
-}
-
-.md-nav__link--active {
-  background: rgba(255, 255, 255, 0.05) !important;
-  color: var(--md-accent-fg-color) !important;
-  font-weight: 600;
-}
-
-/* The "Intelligence Card" Style */
+/* THE RESEARCH CARD (Glassmorphism Reimagined) */
 .md-content article h3 {
-  border-bottom: 1px solid var(--border-glass);
-  padding-bottom: 8px;
-  margin-top: 2em;
   color: var(--md-accent-fg-color);
-  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.15em;
+  margin-top: 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(0, 242, 255, 0.1);
 }
 
-/* Styled Blockquotes (Context & Summaries) */
+/* Premium Blockquotes */
 blockquote {
-  border-left: 3px solid var(--md-accent-fg-color) !important;
-  background: rgba(0, 242, 255, 0.03);
-  padding: 1.5em !important;
-  border-radius: 0 8px 8px 0;
-  margin: 1.5em 0 !important;
-  font-style: italic;
-  color: #a0a0a0;
+  background: rgba(255, 255, 255, 0.02) !important;
+  border-left: 4px solid var(--md-accent-fg-color) !important;
+  padding: 1.5rem 2rem !important;
+  border-radius: 0 12px 12px 0;
+  margin: 2rem 0 !important;
+  font-size: 1.1rem;
+  color: #cbd5e1;
+  box-shadow: 10px 10px 30px rgba(0,0,0,0.2);
 }
 
-/* Research Entries Card Effect */
-.md-typeset ul {
-  padding-left: 0;
-  list-style: none;
-}
-
-.md-typeset li {
-  margin-bottom: 1.5em;
-}
-
-/* Code Block Premium Styling */
+/* CODE BLOCKS: TERMINAL STYLE */
 .md-typeset pre > code {
-  background: #0a0a0a !important;
-  border: 1px solid var(--border-glass);
+  background: #000 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 12px !important;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-  padding: 1.5em !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 0.9rem !important;
+  padding: 1.5rem !important;
+  box-shadow: inset 0 0 20px rgba(0, 242, 255, 0.05);
 }
 
-/* Admonitions (Note/Warning/Tip) */
+/* ADMONITIONS: ELEVATED */
 .admonition {
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  background: rgba(10, 15, 25, 0.6) !important;
   border-radius: 12px !important;
-  border: 1px solid var(--border-glass) !important;
-  background: var(--glass-bg) !important;
-  backdrop-filter: blur(10px);
-  overflow: hidden;
+  backdrop-filter: blur(8px);
 }
 
 .admonition-title {
-  background: rgba(255, 255, 255, 0.05) !important;
+  font-family: 'Outfit', sans-serif;
   font-weight: 700 !important;
+  background: rgba(255, 255, 255, 0.03) !important;
 }
 
-/* Tables Overhaul */
-.md-typeset table:not([class]) {
-  border-radius: 12px;
-  overflow: hidden;
-  border: 1px solid var(--border-glass);
-  background: var(--glass-bg);
-}
-
-.md-typeset th {
-  background: rgba(255, 255, 255, 0.05) !important;
+/* BUTTONS & LINKS */
+.md-typeset a {
   color: var(--md-accent-fg-color);
-  text-transform: uppercase;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
 }
 
-/* Scrollbar Enhancement */
-::-webkit-scrollbar {
-  width: 10px;
+.md-typeset a:hover {
+  border-bottom-color: var(--md-accent-fg-color);
+  text-shadow: var(--neon-glow);
 }
-::-webkit-scrollbar-track {
-  background: var(--md-bg-color);
-}
-::-webkit-scrollbar-thumb {
-  background: rgba(255, 255, 255, 0.1);
-  border: 2px solid var(--md-bg-color);
+
+/* CUSTOM SCROLLBAR (AUTHENTIC) */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--md-bg-color); }
+::-webkit-scrollbar-thumb { 
+  background: rgba(255, 255, 255, 0.1); 
   border-radius: 10px;
 }
-::-webkit-scrollbar-thumb:hover {
-  background: var(--md-accent-fg-color);
+::-webkit-scrollbar-thumb:hover { 
+  background: var(--md-accent-fg-color); 
+}
+
+/* LIGHT MODE OVERRIDES (AUTHENTIC) */
+[data-md-color-scheme="default"] {
+  --md-bg-color: #f8fafc;
+  --md-primary-fg-color: #ffffff;
+  --md-accent-fg-color: #0f172a;
+}
+
+[data-md-color-scheme="default"] body {
+  background-image: none !important;
+  color: #1e293b !important;
+}
+
+[data-md-color-scheme="default"] .md-header {
+  background: rgba(255, 255, 255, 0.8) !important;
+}
+
+[data-md-color-scheme="default"] blockquote {
+  background: #f1f5f9 !important;
+  border-left-color: #0f172a !important;
+  color: #334155;
 }
