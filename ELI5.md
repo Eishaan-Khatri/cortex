@@ -6,3 +6,11 @@ of a technical insight from the main ledger.
 ---
 
 
+## 2026-04-30 — Brain-Computer Interfaces (Simplified)
+
+- **Simple version:** Think of Brain-Computer Interfaces like building with LEGO blocks — each piece connects to make something bigger.
+  - *Metaphor: LEGO blocks*
+
+
+
+
