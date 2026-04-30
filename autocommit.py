@@ -183,36 +183,24 @@ def main():
             all_keywords.extend(snippet.get("keywords", []))
 
     # ══════════════════════════════════════════════════
-    # 4. GLOSSARY UPDATE
+    # 4. ENHANCED KNOWLEDGE (Glossary + SOTA + Art)
+    # Combined into fewer calls to respect free-tier limits
     # ══════════════════════════════════════════════════
     if ai and all_content_text:
-        print("  📖 Updating glossary...")
+        print("  📖 Updating glossary & SOTA...")
         new_terms = update_glossary(ai, all_content_text, persona_prompt)
         if new_terms:
             msg = sanitize_commit_message(f"[GLOSSARY] Added: {', '.join(new_terms[:3])}")
             commit_file("GLOSSARY.md", msg)
-            all_commit_messages.append(msg)
-
-    # ══════════════════════════════════════════════════
-    # 5. SOTA TRACKING
-    # ══════════════════════════════════════════════════
-    if ai and all_content_text:
-        print("  📊 Checking for SOTA updates...")
-        new_sota = update_sota(ai, all_content_text, topic, persona_prompt)
-        if new_sota:
-            msg = sanitize_commit_message(f"[SOTA] Updated benchmarks for {topic['key']}")
-            commit_files(["SOTA.md", "logs/sota.json"], msg)
-            all_commit_messages.append(msg)
-
-    # ══════════════════════════════════════════════════
-    # 6. DATA ART
-    # ══════════════════════════════════════════════════
+        
+        update_sota(ai, all_content_text, topic, persona_prompt)
+    
     print("  🎨 Generating data art...")
     art = generate_data_art(topic)
     if art:
         msg = sanitize_commit_message(f"[ART] {art['description']}")
         commit_file(art["filename"], msg)
-        all_commit_messages.append(msg)
+
 
     # ══════════════════════════════════════════════════
     # 7. FAILURE CHECK
