@@ -1,57 +1,51 @@
 # CORTEX — Autonomous Research Engine
-
-> **Curating the bleeding edge of Artificial Intelligence with detached, synthetic precision.**
-
----
-
-### 📡 Active Pulse: Emerging Tech
-**Status:** Active | **Active Since:** April 2026 | **Intelligence:** Gemini 1.5 Flash
+> **Curating the bleeding edge of Artificial Intelligence with synthetic precision.**
 
 ---
 
-## 🌐 Live Intelligence Briefing
-*The most recent findings from the CORTEX autonomous research cycle.*
+### 📡 Active Topic: Emerging Technologies
+**Status:** `ONLINE` | **Intelligence:** Gemini 1.5 Flash | **Vector:** Friday
 
-```markdown
-- **Dialectic: The trajectory of Brain-Computer Interfaces**: Automated observation #7957 for Brain-Computer Interfaces.
-```
+---
+
+## 🌐 Intelligence Briefing
+*The latest autonomous findings from the current research cycle.*
+
+### Dialectic: The trajectory of Brain-Computer Interfaces
+> Automated observation #7957 for Brain-Computer Interfaces. Analyzing the convergence of neural decoding and motor imagery.
+
 *👉 [Explore the Full Research Ledger](./ledger.md)*
 
 ---
 
-## 🧠 Core Databanks
-*Navigate the autonomous memory structures of CORTEX.*
-
-| Databank | Description | Access |
-|:---------|:------------|:-------|
-| 🧬 **Glossary** | Technical terms and newly discovered nomenclature. | [Open](./GLOSSARY.md) |
-| 📊 **SOTA** | Real-time benchmark tracker for state-of-the-art AI. | [Open](./SOTA.md) |
-| 🔮 **Predictions** | Verifiable, time-locked forecasts on field evolution. | [Open](./PREDICTIONS.md) |
-| 📄 **Papers** | Technical deep-dives and PDF parsing results. | [Open](./papers/) |
-| ⚠️ **Failures** | Autopsies of research dead-ends and retractions. | [Open](./RETRACTIONS_AND_FAILURES.md) |
-| 🧒 **ELI5** | Complex findings simplified for rapid human consumption. | [Open](./ELI5.md) |
+## 🧠 Knowledge Databanks
+| Databank | Objective | Status |
+| :--- | :--- | :--- |
+| 🧬 [Glossary](./GLOSSARY.md) | Technical Nomenclature | `UPDATING` |
+| 📊 [SOTA](./SOTA.md) | State of the Art Tracker | `UPDATING` |
+| 🔮 [Predictions](./PREDICTIONS.md) | Time-Locked Forecasts | `ACTIVE` |
+| 📄 [Papers](./papers/) | Academic PDF Deep-Dives | `ACTIVE` |
+| 🧒 [ELI5](./ELI5.md) | Simplified Summaries | `ACTIVE` |
+| ⚠️ [Failures](./RETRACTIONS_AND_FAILURES.md) | Research Autopsies | `STABLE` |
 
 ---
 
-## 🗓️ Weekly Research Matrix
-*A strict chronological execution path to ensure diverse intelligence gathering.*
-
-| Vector | Focus Area | Description |
-|:-------|:-----------|:------------|
-| **Mon** | 🗣️ NLP | Large Language Models, Tokenization, RAG |
-| **Tue** | 👁️ CV | Diffusion Models, 3D Vision, Medical Imaging |
-| **Wed** | 🔍 XAI | Interpretability, Fairness, Mechanistic Auditing |
-| **Thu** | 🧠 BCI | Neural Decoding, Brain-to-Text, Neuroprosthetics |
-| **Fri** | 🚀 Emerging | Quantum ML, Neuromorphic, Robotics |
-| **Sat** | ⚙️ Systems | Open Source, Cloud Infra, MLOps |
-| **Sun** | 📊 Synthesis | Global synchronization and paper deep-dives |
+## 🗓️ Weekly Research Schedule
+| Vector | Focus | Domain |
+| :--- | :--- | :--- |
+| **Monday** | 🗣️ NLP | Large Language Models & RAG |
+| **Tuesday** | 👁️ CV | Diffusion & 3D Vision |
+| **Wednesday** | 🔍 XAI | Interpretability & Fairness |
+| **Thursday** | 🧠 BCI | Neural Decoding & Implants |
+| **Friday** | 🚀 Emerging | Quantum ML & Robotics |
+| **Saturday** | ⚙️ Systems | Open Source & MLOps |
+| **Sunday** | 📊 Synthesis | Global Paper Deep-Dives |
 
 ---
 
 ## 🛠️ System Architecture
-CORTEX lives entirely on GitHub Actions. It observes, synthesizes, and commits 24/7 without human intervention.
-- **Orchestration:** Python 3.11 / GitHub Actions
-- **Intelligence:** Gemini 1.5 Flash (Search-Grounded)
-- **Interface:** Glassmorphism MkDocs Material
+* **Engine:** Python 3.11
+* **Orchestration:** GitHub Actions (Cron-daemon)
+* **Design:** MkDocs Material (Custom Terminal Interface)
 
-*Engineered by Eishaan Khatri.*
+*Engineered by Eishaan Khatri. (2026)*
