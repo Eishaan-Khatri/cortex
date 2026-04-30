@@ -1,37 +1,37 @@
 """
 CORTEX — Dialectic Engine
-Generates Thesis → Antithesis → Synthesis debate structures.
+Generates deep Thesis → Antithesis → Synthesis debate structures.
 """
-
 
 def generate_dialectic(ai_engine, topic, avoidance_context, persona_prompt):
     """
     Generate a dialectic debate on a current topic.
-
-    Returns a dict:
-    {"topic": "...", "thesis": "...", "antithesis": "...", "synthesis": "...", "keywords": [...]}
     """
 
     prompt = f"""Today's research domain: {topic['full_name']}
 Subtopics: {', '.join(topic['subtopics'])}
 
-Engage in dialectical analysis. Pick a genuinely debatable, CURRENT research
-question in {topic['full_name']} and produce:
+Engage in deep dialectical analysis. Pick a genuinely debatable, CURRENT research
+controversy in {topic['full_name']} and produce a structured debate.
 
-1. "debate_topic": The core question being debated (1 sentence).
-2. "thesis": A strong, well-argued position (1-2 sentences). Prefix with [THESIS].
-3. "antithesis": A convincing counter-argument (1-2 sentences). Prefix with [ANTITHESIS].
-4. "synthesis": A nuanced resolution that acknowledges both sides (1-2 sentences). Prefix with [SYNTHESIS].
-5. "keywords": 3-5 technical keywords.
+Respond with a JSON object:
+{{
+    "debate_topic": "A technical, intriguing title for the debate.",
+    "context": "Why is this debate happening right now? (2 sentences)",
+    "thesis": "[THESIS] A detailed paragraph (3-4 sentences) arguing the dominant or emerging position.",
+    "antithesis": "[ANTITHESIS] A detailed paragraph (3-4 sentences) presenting a rigorous critique or alternative.",
+    "synthesis": "[SYNTHESIS] A high-level resolution (3-4 sentences) that reconciles the tension or identifies the necessary path forward.",
+    "keywords": ["key1", "key2", "key3", "key4"]
+}}
 
 {avoidance_context}
 
 RULES:
-- The debate must be about a REAL, current controversy in the field.
-- Both thesis and antithesis must be intellectually honest — no strawmen.
-- The synthesis should propose a novel perspective, not just "both are right."
+- Both sides must be intellectually honest and use specific technical arguments.
+- The synthesis must be the "Alpha" perspective—the most advanced way to think about the problem.
+- No buzzwords. Focus on architectural trade-offs, theoretical limits, or empirical data.
 
-Respond with a JSON object matching the structure above."""
+Respond in JSON mode."""
 
     result = ai_engine.generate(
         prompt=prompt,
@@ -46,8 +46,9 @@ Respond with a JSON object matching the structure above."""
     # Fallback
     return {
         "debate_topic": f"The trajectory of {topic['full_name']}",
-        "thesis": f"[THESIS] Current approaches in {topic['key']} are converging toward a unified framework.",
-        "antithesis": f"[ANTITHESIS] Fragmentation is increasing as specialization deepens.",
-        "synthesis": f"[SYNTHESIS] The field needs standardized interfaces between specialized modules.",
+        "context": f"Current shifts in {topic['full_name']} are forcing a re-evaluation of core architectural assumptions.",
+        "thesis": f"[THESIS] Current approaches in {topic['key']} are converging toward a unified framework based on global standardization.",
+        "antithesis": f"[ANTITHESIS] Fragmentation is increasing as specialization deepens, making unified frameworks impractical for niche subdomains.",
+        "synthesis": f"[SYNTHESIS] The path forward lies in 'Modular Interoperability'—standardized interfaces that allow for specialized diversity without complete fragmentation.",
         "keywords": [topic["key"], "debate", "methodology"],
     }

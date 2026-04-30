@@ -115,18 +115,26 @@ def main():
         insights = _fallback_insights(topic, num_insights)
 
     for insight in insights:
-        msg = sanitize_commit_message(insight.get("commit_message", f"[{topic['key']}] Research pulse"))
-        expansion = insight.get("expansion", "")
-        keywords = insight.get("keywords", [])
+        headline = insight.get("headline", "Research Observation")
+        msg = sanitize_commit_message(insight.get("commit_message", f"[{topic['key']}] {headline}"))
+        summary = insight.get("summary", "")
+        tech_depth = insight.get("technical_depth", "")
+        impact = insight.get("impact", "")
         arxiv_id = insight.get("arxiv_id")
+        keywords = insight.get("keywords", [])
 
-        # Build ledger entry
-        entry = f"- [{now_str()}] {msg}\n"
-        if expansion:
-            entry += f"  > {expansion}\n"
+        # Build ledger entry (Structured Card)
+        entry = f"### {headline}\n"
+        if summary:
+            entry += f"> {summary}\n\n"
+        if tech_depth:
+            entry += f"{tech_depth}\n\n"
+        if impact:
+            entry += f"**Bottom Line:** {impact}\n\n"
         if arxiv_id:
-            entry += f"  > 📄 arXiv:{arxiv_id}\n"
-        entry += "\n"
+            entry += f"*Ref: [arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id})*\n\n"
+        
+        entry += "---\n\n"
 
         prepend_to_markdown(LEDGER_FILE, entry)
         commit_file(LEDGER_FILE, msg)
@@ -135,7 +143,7 @@ def main():
         if arxiv_id:
             all_arxiv_ids.append(arxiv_id)
         all_commit_messages.append(msg)
-        all_content_text += f"{msg} {expansion} "
+        all_content_text += f"{headline} {summary} {tech_depth} "
 
         # Small delay to make commits look natural
         time.sleep(0.5)
@@ -147,19 +155,22 @@ def main():
         print("\n  🗣️  Generating dialectic debate...")
         dialectic = generate_dialectic(ai, topic, avoidance_context, persona_prompt)
 
-        debate_topic = dialectic.get("debate_topic", "")
+        debate_topic = dialectic.get("debate_topic", "Theoretical Tension")
+        context = dialectic.get("context", "")
+        
+        # Prepend the debate header
+        header = f"## Dialectic: {debate_topic}\n"
+        if context:
+            header += f"> {context}\n\n"
+        prepend_to_markdown(LEDGER_FILE, header)
+
         for phase in ["thesis", "antithesis", "synthesis"]:
             text = dialectic.get(phase, "")
             if text:
-                # Ensure prefix exists
-                prefix = f"[{phase.upper()}]"
-                if not text.startswith(prefix):
-                    text = f"{prefix} {text}"
-
-                msg = sanitize_commit_message(text)
-                entry = f"- [{now_str()}] {msg}\n"
-                if phase == "thesis":
-                    entry = f"\n### Dialectic: {debate_topic}\n\n" + entry
+                msg = sanitize_commit_message(f"[{phase.upper()}] {debate_topic}")
+                entry = f"{text}\n\n"
+                if phase == "synthesis":
+                    entry += "---\n\n"
 
                 prepend_to_markdown(LEDGER_FILE, entry)
                 commit_file(LEDGER_FILE, msg)

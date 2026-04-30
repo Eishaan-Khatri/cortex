@@ -1,43 +1,41 @@
 """
 CORTEX — Daily Insights Generator
-Generates 5-20 unique research insights for today's topic using Gemini with search grounding.
+Generates high-density, structured research briefings for today's topic.
 """
 
 import random
-
+from datetime import datetime
 
 def generate_daily_insights(ai_engine, topic, num_insights, avoidance_context, persona_prompt):
     """
-    Generate research insights for today's topic.
-
-    Returns a list of dicts:
-    [{"commit_message": "...", "expansion": "...", "keywords": [...], "arxiv_id": "..."}]
+    Generate structured research briefings for today's topic.
     """
 
-    prompt = f"""Today's date: {__import__('datetime').datetime.now().strftime('%Y-%m-%d')}
+    prompt = f"""Today's date: {datetime.now().strftime('%Y-%m-%d')}
 Today's research domain: {topic['full_name']}
 Subtopics to explore: {', '.join(topic['subtopics'])}
 
-Generate exactly {num_insights} unique, cutting-edge research insights about {topic['full_name']}.
-Focus on the LATEST breakthroughs, newly published papers, and emerging trends.
+Generate {num_insights} high-density "Research Briefings" about {topic['full_name']}.
+Instead of short snippets, focus on creating deep, insightful, and complete observations.
 
-For EACH insight, provide:
-1. "commit_message": A concise, punchy observation (max 120 chars). Use the persona voice.
-   Format: "[{topic['key']}] <insight>"
-2. "expansion": A 2-3 sentence deeper analysis of why this matters.
-3. "keywords": 3-5 specific technical keywords for dedup tracking.
-4. "arxiv_id": If referencing a specific paper, include the ArXiv ID (e.g., "2401.12345"). Otherwise null.
+For EACH briefing, provide:
+1. "headline": A bold, professional technical title for the discovery.
+2. "commit_message": A concise tag-style message: "[{topic['key']}] <Title>" (max 80 chars).
+3. "summary": A 1-2 sentence "ELI5" overview explaining why this matters to the broader landscape.
+4. "technical_depth": A detailed paragraph (4-6 sentences) explaining the specific methodology, architecture, or findings.
+5. "impact": A single-sentence bold "Bottom Line" takeaway.
+6. "keywords": 4-6 specific technical keywords for dedup tracking.
+7. "arxiv_id": Include the ArXiv ID if applicable (e.g., "2404.12345"). Otherwise null.
 
 {avoidance_context}
 
 CRITICAL RULES:
-- Each insight must be UNIQUE and non-obvious.
-- Prefer niche, under-the-radar findings over mainstream news.
-- Include at least 2 insights referencing specific recent papers.
-- One insight should be a provocative or contrarian take.
-- Use precise technical language, never hype words.
+- Focus on VERY RECENT (last 7-14 days) or extremely high-impact signals.
+- Balance deep technical detail with broad context.
+- Ensure the writing feels authoritative, precise, and synthetic.
+- Avoid buzzwords. Focus on data, benchmarks, and architectural shifts.
 
-Respond with a JSON object: {{"insights": [...]}}"""
+Respond with a JSON object: {"insights": [...]}"""
 
     result = ai_engine.generate(
         prompt=prompt,
@@ -68,8 +66,11 @@ def _fallback_insights(topic, count):
     for i in range(count):
         template = templates[i % len(templates)]
         insights.append({
+            "headline": f"Anomalous Signal in {topic['key']} Research",
             "commit_message": template,
-            "expansion": f"Automated observation #{random.randint(1000, 9999)} for {topic['full_name']}.",
+            "summary": f"Automated monitoring detected a shift in {topic['full_name']} methodology.",
+            "technical_depth": f"Observation #{random.randint(1000, 9999)} confirms that entropy levels in {topic['full_name']} are shifting toward a new equilibrium point.",
+            "impact": "Field stability remains high but requires continuous observation.",
             "keywords": [topic["key"], "observation", f"sector-{random.randint(1, 256)}"],
             "arxiv_id": None,
         })

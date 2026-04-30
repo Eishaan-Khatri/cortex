@@ -1,86 +1,153 @@
 :root {
   --md-primary-fg-color: #000000;
-  --md-accent-fg-color: #00ffcc;
-  --md-bg-color: #0d1117;
+  --md-accent-fg-color: #00f2ff;
+  --md-bg-color: #050505;
+  
+  /* CORTEX Premium Palette */
+  --glow-cyan: rgba(0, 242, 255, 0.5);
+  --glass-bg: rgba(10, 10, 10, 0.7);
+  --border-glass: rgba(255, 255, 255, 0.1);
 }
 
-/* Glassmorphism background for the whole body */
+/* Base Body Styles */
 body {
-  background: radial-gradient(circle at top left, rgba(0, 255, 204, 0.05), transparent 40%),
-              radial-gradient(circle at bottom right, rgba(0, 168, 255, 0.05), transparent 40%),
-              #0d1117 !important;
-  color: #c9d1d9;
+  background-color: var(--md-bg-color) !important;
+  background-image: 
+    radial-gradient(circle at 0% 0%, rgba(0, 242, 255, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 100% 100%, rgba(123, 0, 255, 0.03) 0%, transparent 50%) !important;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Header Glassmorphism */
+/* Glassmorphism Header */
 .md-header {
-  background: rgba(13, 17, 23, 0.7) !important;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  background: var(--glass-bg) !important;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border-glass) !important;
 }
 
-/* Tabs Glassmorphism */
+.md-header__topic {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Premium Navigation Tabs */
 .md-tabs {
-  background: rgba(13, 17, 23, 0.7) !important;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  background: transparent !important;
+  border-bottom: 1px solid var(--border-glass);
 }
 
-/* Sidebar Navigation */
-.md-nav {
+.md-tabs__link {
+  font-weight: 500;
+  opacity: 0.6;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.md-tabs__link--active, .md-tabs__link:hover {
+  opacity: 1;
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Glassmorphism Sidebars */
+.md-sidebar {
   background: transparent !important;
 }
 
-.md-nav__item .md-nav__link--active {
+.md-nav__link {
+  border-radius: 6px;
+  margin: 2px 0;
+  transition: background 0.2s ease;
+}
+
+.md-nav__link--active {
+  background: rgba(255, 255, 255, 0.05) !important;
   color: var(--md-accent-fg-color) !important;
-  text-shadow: 0 0 8px rgba(0, 255, 204, 0.5);
+  font-weight: 600;
 }
 
-/* Content Blocks (Code, Admonitions) */
-.md-content .admonition, .md-content details {
-  background: rgba(255, 255, 255, 0.03) !important;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 8px;
-  backdrop-filter: blur(4px);
-}
-
-.md-typeset pre > code {
-  background: rgba(0, 0, 0, 0.3) !important;
-  border: 1px solid rgba(255, 255, 255, 0.05);
-  border-radius: 8px;
-  box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
-}
-
-/* Neon Links */
-.md-typeset a {
+/* The "Intelligence Card" Style */
+.md-content article h3 {
+  border-bottom: 1px solid var(--border-glass);
+  padding-bottom: 8px;
+  margin-top: 2em;
   color: var(--md-accent-fg-color);
-  transition: all 0.3s ease;
+  font-weight: 800;
 }
 
-.md-typeset a:hover {
-  color: #00a8ff;
-  text-shadow: 0 0 8px rgba(0, 168, 255, 0.8);
+/* Styled Blockquotes (Context & Summaries) */
+blockquote {
+  border-left: 3px solid var(--md-accent-fg-color) !important;
+  background: rgba(0, 242, 255, 0.03);
+  padding: 1.5em !important;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5em 0 !important;
+  font-style: italic;
+  color: #a0a0a0;
 }
 
-/* Images & Badges */
-.md-typeset img {
-  border-radius: 8px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+/* Research Entries Card Effect */
+.md-typeset ul {
+  padding-left: 0;
+  list-style: none;
 }
 
-/* Neon Scrollbar */
+.md-typeset li {
+  margin-bottom: 1.5em;
+}
+
+/* Code Block Premium Styling */
+.md-typeset pre > code {
+  background: #0a0a0a !important;
+  border: 1px solid var(--border-glass);
+  border-radius: 12px !important;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  padding: 1.5em !important;
+}
+
+/* Admonitions (Note/Warning/Tip) */
+.admonition {
+  border-radius: 12px !important;
+  border: 1px solid var(--border-glass) !important;
+  background: var(--glass-bg) !important;
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+}
+
+.admonition-title {
+  background: rgba(255, 255, 255, 0.05) !important;
+  font-weight: 700 !important;
+}
+
+/* Tables Overhaul */
+.md-typeset table:not([class]) {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--border-glass);
+  background: var(--glass-bg);
+}
+
+.md-typeset th {
+  background: rgba(255, 255, 255, 0.05) !important;
+  color: var(--md-accent-fg-color);
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+}
+
+/* Scrollbar Enhancement */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 10px;
 }
 ::-webkit-scrollbar-track {
-  background: #0d1117;
+  background: var(--md-bg-color);
 }
 ::-webkit-scrollbar-thumb {
-  background: rgba(0, 255, 204, 0.3);
-  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid var(--md-bg-color);
+  border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(0, 255, 204, 0.6);
+  background: var(--md-accent-fg-color);
 }
