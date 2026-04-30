@@ -42,6 +42,7 @@ from generators.failures import check_for_failures
 from generators.bounties import hunt_bounties
 from generators.data_art import generate_data_art
 from generators.eli5 import generate_eli5
+from generators.briefing_generator import generate_daily_briefing
 
 
 LEDGER_FILE = "ledger.md"
@@ -276,6 +277,19 @@ def main():
             prepend_to_markdown("ELI5.md", eli5_text)
             msg = sanitize_commit_message(f"[ELI5] Simplified {topic['key']} insights for everyone")
             commit_file("ELI5.md", msg)
+            all_commit_messages.append(msg)
+
+    # ══════════════════════════════════════════════════
+    # 10.5 DAILY TECHNICAL BRIEFING
+    # ══════════════════════════════════════════════════
+    if ai and insights and dialectic:
+        print("  📰 Generating daily technical narrative...")
+        narrative = generate_daily_briefing(ai, topic, insights, dialectic, persona_prompt)
+        
+        if narrative:
+            write_file("DAILY_BRIEFING.md", narrative)
+            msg = sanitize_commit_message(f"[BRIEF] Daily Intelligence Narrative: {topic['key']}")
+            commit_file("DAILY_BRIEFING.md", msg)
             all_commit_messages.append(msg)
 
     # ══════════════════════════════════════════════════
