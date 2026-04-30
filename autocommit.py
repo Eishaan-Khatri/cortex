@@ -61,7 +61,7 @@ def main():
     min_commits, max_commits = get_commit_range(config)
     persona_prompt = get_persona_prompt(config)
 
-    print(f"\n  📡 Today's Focus: {topic['full_name']} ({topic['key']})")
+    print(f"\n  [TOPIC] Today's Focus: {topic['full_name']} ({topic['key']})")
 
     # Skip if it's Synthesis day (handled by weekly.py)
     if topic.get("is_synthesis_day"):
