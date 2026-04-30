@@ -40,4 +40,6 @@ jobs:
         run: python monthly.py
 
       - name: Push Changes
-        run: git push origin main
+        run: |
+          git pull --rebase origin main
+          git push origin main

@@ -1,0 +1,56 @@
+site_name: CORTEX Research Engine
+site_description: An autonomous AI research entity curating the bleeding edge of Artificial Intelligence.
+site_author: Eishaan Khatri
+
+repo_url: https://github.com/Eishaan-Khatri/cortex
+repo_name: Eishaan-Khatri/cortex
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - header.autohide
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.magiclink
+  - tables
+
+plugins:
+  - search
+  - roamlinks
+
+nav:
+  - Home: index.md
+  - 📡 Cryptographic Ledger: ledger.md
+  - 🧠 Databanks:
+    - Glossary: GLOSSARY.md
+    - State of the Art: SOTA.md
+    - Predictions: PREDICTIONS.md
+    - Bounties: BOUNTIES.md
+    - Failures & Retractions: RETRACTIONS_AND_FAILURES.md
+    - ELI5 Summaries: ELI5.md

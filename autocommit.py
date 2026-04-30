@@ -37,6 +37,7 @@ from generators.code_snippets import generate_code_snippet
 from generators.glossary import update_glossary
 from generators.sota_tracker import update_sota
 from generators.sentiment import generate_sentiment, format_sentiment_dashboard
+from generators.arxiv_diver import deep_dive_paper
 from generators.failures import check_for_failures
 from generators.bounties import hunt_bounties
 from generators.data_art import generate_data_art
@@ -201,6 +202,17 @@ def main():
         msg = sanitize_commit_message(f"[ART] {art['description']}")
         commit_file(art["filename"], msg)
 
+    # ══════════════════════════════════════════════════
+    # 6.5 ARXIV DEEP DIVE (New Feature)
+    # ══════════════════════════════════════════════════
+    if ai:
+        print("  📄 Performing ArXiv Deep Dive...")
+        paper_res = deep_dive_paper(ai, topic, persona_prompt)
+        if paper_res:
+            msg = sanitize_commit_message(f"[PAPER] Deep dive: {paper_res['title']}")
+            commit_file(paper_res["filename"], msg)
+            all_commit_messages.append(msg)
+            all_keywords.extend(paper_res.get("keywords", []))
 
     # ══════════════════════════════════════════════════
     # 7. FAILURE CHECK

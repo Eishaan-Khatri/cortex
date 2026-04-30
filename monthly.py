@@ -17,6 +17,7 @@ from core.utils import now_str
 
 from generators.predictions import generate_predictions, score_predictions
 from generators.bounties import declare_bounty
+from generators.auditor import audit_predictions
 
 
 def main():
@@ -48,6 +49,13 @@ def main():
             ["PREDICTIONS.md", "logs/predictions.json"],
             f"[PREDICTIONS] Scored {len(scored)} predictions",
         )
+
+    print("  🔬 Running Scientific Audit...")
+    failures = audit_predictions(ai, persona_prompt)
+    if failures > 0:
+        print(f"  [AUDIT] Found {failures} flawed predictions. Failures logged.")
+    else:
+        print("  [AUDIT] No flawed predictions found or none ready for audit.")
 
     # ══════════════════════════════════════════════════
     # 2. GENERATE NEW PREDICTIONS
