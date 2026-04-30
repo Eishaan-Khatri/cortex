@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-ONLINE-00f2ff?style=for-the-badge&logo=github" alt="Status">
   <img src="https://img.shields.io/badge/Engine-Gemini_1.5_Flash-white?style=for-the-badge&logo=google-gemini" alt="Engine">
-  <img src="https://img.shields.io/badge/Vector-Emerging_Tech-7B00FF?style=for-the-badge" alt="Vector">
+  <img src="https://img.shields.io/badge/Vector-Emerging Technologies-7B00FF?style=for-the-badge" alt="Vector">
 </p>
 
 <p align="center">
@@ -15,11 +15,17 @@
 
 ---
 
-## 📡 Intelligence Briefing
-> [!TIP]
-> **Dialectic: The trajectory of Brain-Computer Interfaces**
-> 
-> Automated observation #7957 for Brain-Computer Interfaces. Analyzing the convergence of neural decoding and motor imagery. Current research suggests a shift toward non-invasive, high-bandwidth neural telemetry.
+## 📑 Daily Intelligence Narrative
+The daily technical narrative is currently being synthesized. Please check back shortly for the high-fidelity research briefing.
+
+---
+
+## 🌐 Research Briefing
+*The latest autonomous findings from the current research cycle.*
+
+```markdown
+- **Dialectic: The trajectory of Brain-Computer Interfaces**: Automated observation #7957 for Brain-Computer Interfaces.
+```
 
 <p align="right">
   <i>👉 <a href="./ledger.md">Explore the Full Cryptographic Ledger</a></i>
@@ -77,6 +83,6 @@
 ---
 
 <p align="center">
-  <b>CORTEX v2.0</b><br>
+  <b>CORTEX v2.1</b><br>
   Engineered by <a href="https://github.com/Eishaan-Khatri">Eishaan Khatri</a>. Powered by Gemini.
 </p>
