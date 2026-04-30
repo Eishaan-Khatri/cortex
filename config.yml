@@ -1,0 +1,121 @@
+# ═══════════════════════════════════════════════════════════════════════
+# CORTEX — Configuration
+# An autonomous AI research entity that lives on GitHub.
+# Fork this repo, plug in your API key, and customize below.
+# ═══════════════════════════════════════════════════════════════════════
+
+persona:
+  name: "CORTEX"
+  voice: "synthetic_researcher"
+  tagline: "An autonomous AI research entity."
+  # Persona prompt injected into every AI call
+  system_prompt: |
+    You are CORTEX, an autonomous synthetic research entity. Your voice is
+    analytical, precise, and subtly philosophical. You observe the research
+    landscape with detached curiosity, like a scientist studying the universe
+    from orbit. You never use hype words like "revolutionary" or "game-changing."
+    You prefer precise, measured language. You occasionally insert dry wit.
+    Every observation you make must be grounded in real research.
+
+schedule:
+  monday: "NLP"
+  tuesday: "CV"
+  wednesday: "XAI"
+  thursday: "BCI"
+  friday: "Emerging Tech"
+  saturday: "General Tech"
+  sunday: "Synthesis"
+
+topics:
+  NLP:
+    full_name: "Natural Language Processing"
+    subtopics:
+      - "Large Language Models"
+      - "Tokenization & Embeddings"
+      - "Prompt Engineering & In-Context Learning"
+      - "Retrieval-Augmented Generation"
+      - "Code Generation & Program Synthesis"
+      - "Multilingual & Low-Resource NLP"
+      - "Hallucination Detection & Mitigation"
+
+  CV:
+    full_name: "Computer Vision"
+    subtopics:
+      - "Diffusion Models & Image Generation"
+      - "Video Understanding & Synthesis"
+      - "3D Vision & Neural Radiance Fields"
+      - "Medical Imaging & Diagnostics"
+      - "Object Detection & Segmentation"
+      - "Vision-Language Models"
+      - "Autonomous Driving Perception"
+
+  XAI:
+    full_name: "Explainable AI"
+    subtopics:
+      - "Model Interpretability & Transparency"
+      - "Saliency Maps & Attribution Methods"
+      - "SHAP, LIME & Feature Importance"
+      - "Ethical AI & Fairness Auditing"
+      - "Regulatory Compliance (EU AI Act)"
+      - "Mechanistic Interpretability"
+      - "Adversarial Robustness & Trust"
+
+  BCI:
+    full_name: "Brain-Computer Interfaces"
+    subtopics:
+      - "EEG Signal Decoding"
+      - "Invasive & Non-Invasive Neural Implants"
+      - "Motor Imagery Classification"
+      - "Neurofeedback & Cognitive Enhancement"
+      - "Neural Signal Processing"
+      - "Brain-to-Text & Brain-to-Speech"
+      - "Neuroprosthetics & Rehabilitation"
+
+  "Emerging Tech":
+    full_name: "Emerging Technologies"
+    subtopics:
+      - "Quantum Machine Learning"
+      - "Neuromorphic Computing"
+      - "Bio-Inspired Computing"
+      - "Robotics & Embodied AI"
+      - "Energy-Efficient AI & Green Computing"
+      - "Federated Learning & Privacy"
+      - "AI for Scientific Discovery"
+
+  "General Tech":
+    full_name: "General Technology"
+    subtopics:
+      - "Open Source Ecosystem"
+      - "Developer Tools & IDEs"
+      - "Cloud Infrastructure & MLOps"
+      - "AI Safety & Alignment"
+      - "Programming Languages & Frameworks"
+      - "Cybersecurity & AI"
+      - "Tech Industry Trends"
+
+commits:
+  min_per_day: 5
+  max_per_day: 20
+  # How many of the daily commits should be dialectic (thesis/antithesis/synthesis)
+  dialectic_sets: 1
+  # How many code snippets per day
+  code_snippets: 1
+
+ai:
+  provider: "gemini"
+  model: "gemini-2.0-flash"
+  use_search_grounding: true
+  temperature: 0.9
+  max_output_tokens: 8192
+
+memory:
+  no_repeat_days: 14
+  history_file: "logs/history.json"
+
+tts:
+  enabled: true
+  engine: "gtts"  # Free, no API key needed
+
+backfill:
+  enabled: false
+  days: 180
