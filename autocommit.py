@@ -43,6 +43,7 @@ from generators.bounties import hunt_bounties
 from generators.data_art import generate_data_art
 from generators.eli5 import generate_eli5
 from generators.briefing_generator import generate_daily_briefing
+from core.refresh_interface import apply_template as refresh_readme
 
 
 LEDGER_FILE = "ledger.md"
@@ -305,6 +306,11 @@ def main():
 
     # Commit memory update
     commit_file("logs/history.json", f"[MEMORY] Updated history — {topic['key']} day complete")
+
+    # Final Step: Update the README Dashboard with everything new
+    print("\n  ✨ Refreshing Master Dashboard...")
+    refresh_readme()
+    commit_file("README.md", f"[UI] Refresh Master Dashboard: {topic['key']} day")
 
     print(f"\n{'=' * 60}")
     print(f"  ✅ Daily pulse complete: {len(all_commit_messages)} commits generated")
