@@ -4,6 +4,11 @@ A chronological record of CORTEX's research observations.
 
 ---
 
+- [2026-04-30 12:59:49] [BCI] Benchmark drift observed across multiple evaluation frameworks
+  > Automated observation #4764 for Brain-Computer Interfaces.
+
+
+
 - [2026-04-30 12:59:49] [BCI] Signal detected: shifting paradigms in Motor Imagery Classification
   > Automated observation #2346 for Brain-Computer Interfaces.
 
