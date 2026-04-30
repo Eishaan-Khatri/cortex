@@ -1,51 +1,82 @@
-# CORTEX — Autonomous Research Engine
-> **Curating the bleeding edge of Artificial Intelligence with synthetic precision.**
+<p align="center">
+  <img src="./art/banner.png" width="100%" alt="CORTEX Banner">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-ONLINE-00f2ff?style=for-the-badge&logo=github" alt="Status">
+  <img src="https://img.shields.io/badge/Engine-Gemini_1.5_Flash-white?style=for-the-badge&logo=google-gemini" alt="Engine">
+  <img src="https://img.shields.io/badge/Vector-Emerging_Tech-7B00FF?style=for-the-badge" alt="Vector">
+</p>
+
+<p align="center">
+  <b>An autonomous synthetic research entity curating the bleeding edge of Artificial Intelligence.</b><br>
+  <i>Observing, synthesizing, and documenting the future of intelligence 24/7.</i>
+</p>
 
 ---
 
-### 📡 Active Topic: Emerging Technologies
-**Status:** `ONLINE` | **Intelligence:** Gemini 1.5 Flash | **Vector:** Friday
+## 📡 Intelligence Briefing
+> [!TIP]
+> **Dialectic: The trajectory of Brain-Computer Interfaces**
+> 
+> Automated observation #7957 for Brain-Computer Interfaces. Analyzing the convergence of neural decoding and motor imagery. Current research suggests a shift toward non-invasive, high-bandwidth neural telemetry.
+
+<p align="right">
+  <i>👉 <a href="./ledger.md">Explore the Full Cryptographic Ledger</a></i>
+</p>
 
 ---
 
-## 🌐 Intelligence Briefing
-*The latest autonomous findings from the current research cycle.*
-
-### Dialectic: The trajectory of Brain-Computer Interfaces
-> Automated observation #7957 for Brain-Computer Interfaces. Analyzing the convergence of neural decoding and motor imagery.
-
-*👉 [Explore the Full Research Ledger](./ledger.md)*
+## 🧠 Autonomous Databanks
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>🧬 <a href="./GLOSSARY.md">Glossary</a></b><br>
+      Technical nomenclature and newly discovered terminology.
+    </td>
+    <td width="50%">
+      <b>📊 <a href="./SOTA.md">SOTA Tracker</a></b><br>
+      Real-time benchmarks for state-of-the-art AI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🔮 <a href="./PREDICTIONS.md">Predictions</a></b><br>
+      Verifiable, time-locked forecasts on field evolution.
+    </td>
+    <td width="50%">
+      <b>📄 <a href="./papers/">Research Papers</a></b><br>
+      Technical deep-dives and academic PDF parsing.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🧒 <a href="./ELI5.md">ELI5 Summaries</a></b><br>
+      Complex findings simplified for rapid human consumption.
+    </td>
+    <td width="50%">
+      <b>⚠️ <a href="./RETRACTIONS_AND_FAILURES.md">Failure Log</a></b><br>
+      Autopsies of research dead-ends and retractions.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 Knowledge Databanks
-| Databank | Objective | Status |
+## 🗓️ Execution Matrix
+| Day | Vector | Primary Focus |
 | :--- | :--- | :--- |
-| 🧬 [Glossary](./GLOSSARY.md) | Technical Nomenclature | `UPDATING` |
-| 📊 [SOTA](./SOTA.md) | State of the Art Tracker | `UPDATING` |
-| 🔮 [Predictions](./PREDICTIONS.md) | Time-Locked Forecasts | `ACTIVE` |
-| 📄 [Papers](./papers/) | Academic PDF Deep-Dives | `ACTIVE` |
-| 🧒 [ELI5](./ELI5.md) | Simplified Summaries | `ACTIVE` |
-| ⚠️ [Failures](./RETRACTIONS_AND_FAILURES.md) | Research Autopsies | `STABLE` |
+| **Mon** | 🗣️ NLP | Large Language Models & RAG |
+| **Tue** | 👁️ CV | Diffusion & 3D Vision |
+| **Wed** | 🔍 XAI | Interpretability & Fairness |
+| **Thu** | 🧠 BCI | Neural Decoding & Neuroprosthetics |
+| **Fri** | 🚀 Emerging | Quantum ML & Robotics |
+| **Sat** | ⚙️ Systems | Open Source & MLOps |
+| **Sun** | 📊 Synthesis | Global Paper Deep-Dives |
 
 ---
 
-## 🗓️ Weekly Research Schedule
-| Vector | Focus | Domain |
-| :--- | :--- | :--- |
-| **Monday** | 🗣️ NLP | Large Language Models & RAG |
-| **Tuesday** | 👁️ CV | Diffusion & 3D Vision |
-| **Wednesday** | 🔍 XAI | Interpretability & Fairness |
-| **Thursday** | 🧠 BCI | Neural Decoding & Implants |
-| **Friday** | 🚀 Emerging | Quantum ML & Robotics |
-| **Saturday** | ⚙️ Systems | Open Source & MLOps |
-| **Sunday** | 📊 Synthesis | Global Paper Deep-Dives |
-
----
-
-## 🛠️ System Architecture
-* **Engine:** Python 3.11
-* **Orchestration:** GitHub Actions (Cron-daemon)
-* **Design:** MkDocs Material (Custom Terminal Interface)
-
-*Engineered by Eishaan Khatri. (2026)*
+<p align="center">
+  <b>CORTEX v2.0</b><br>
+  Engineered by <a href="https://github.com/Eishaan-Khatri">Eishaan Khatri</a>. Powered by Gemini.
+</p>
