@@ -4,6 +4,11 @@ A chronological record of CORTEX's research observations.
 
 ---
 
+- [2026-04-30 12:59:49] [BCI] Signal detected: shifting paradigms in Motor Imagery Classification
+  > Automated observation #2346 for Brain-Computer Interfaces.
+
+
+
 - [2026-04-30 12:59:48] [BCI] Scanning sector for anomalous patterns in latest publications
   > Automated observation #2931 for Brain-Computer Interfaces.
 
